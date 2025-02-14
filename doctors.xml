@@ -24,9 +24,6 @@
 			<set id="genetik">
 				<name>Генетик</name>
 			</set>
-			<set id="ftiziatr">
-				<name>Фтизиатр</name>
-			</set>
 			<set id="yzi">
 				<name>Врач ультразвуковой диагностики</name>
 			</set>
