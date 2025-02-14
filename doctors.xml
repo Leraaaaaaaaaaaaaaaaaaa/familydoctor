@@ -1,0 +1,907 @@
+<yml_catalog date="2025-01-30 15:58">
+	<shop>
+		<name>Частная клиника Семейный доктор в Санкт-Петербурге</name>
+		<picture>https://static.tildacdn.com/tild6339-6465-4064-b566-383231643666/logo.png</picture>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="100">Врач</category>
+		</categories>
+		<sets>
+			<set id="yrolog">
+				<name>Уролог</name>
+			</set>
+			<set id="ginekolog-end">
+				<name>Гинеколог-эндокринолог</name>
+			</set>
+			<set id="aky-gin">
+				<name>Акушер-гинеколог</name>
+			</set>
+			<set id="reprodyktolog">
+				<name>Репродуктолог</name>
+			</set>
+			<set id="genetik">
+				<name>Генетик</name>
+			</set>
+			<set id="ftiziatr">
+				<name>Фтизиатр</name>
+			</set>
+			<set id="yzi">
+				<name>Врач ультразвуковой диагностики</name>
+			</set>
+			<set id="embriolog">
+				<name>Эмбриолог</name>
+			</set>
+			<set id="endokrinolog">
+				<name>Эндокринолог</name>
+			</set>
+			<set id="anest-rean">
+				<name>Анестезиолог-реаниматолог</name>
+			</set>
+			<set id="sshiryrg">
+				<name>Сердечно-сосудистый хирург</name>
+			</set>
+			<set id="terapevt">
+				<name>Терапевт</name>
+			</set>
+			<set id="mam-onk">
+				<name>Маммолог-онколог</name>
+			</set>
+			<set id="flebolog">
+				<name>Флеболог</name>
+			</set>
+			<set id="gematolog">
+				<name>Гематолог</name>
+			</set>
+			<set id="gemostaziolog">
+				<name>Гемостазиолог</name>
+			</set>
+			<set id="transfuziolog">
+				<name>Трансфузиолог</name>
+			</set>
+			<set id="hiryrg">
+				<name>Хирург</name>
+			</set>
+			<set id="psikholog">
+				<name>Психолог</name>
+			</set>		
+			<set id="mamolog">
+				<name>Мамолог</name>
+			</set>	
+			<set id="angrolog">
+				<name>Андролог</name>
+			</set>	
+			<set id="gastroenterolog">
+				<name>Гастроэнтеролог</name>
+			</set>	
+			<set id="dietolog">
+				<name>Диетолог</name>
+			</set>	
+			<set id="kardiolog">
+				<name>Кардиолог</name>
+			</set>	
+			<set id="aritmolog">
+				<name>Аритмолог</name>
+			</set>	
+			<set id="kardiohirurg">
+				<name>Кардиохирург</name>
+			</set>	
+			<set id="manualnyj terapevt">
+				<name>Мануальный терапевт</name>
+			</set>	
+			<set id="nevrolog">
+				<name>Невролог</name>
+			</set>	
+			<set id="ortoped">
+				<name>Ортопед</name>
+			</set>	
+			<set id="travmatolog">
+				<name>Травматолог</name>
+			</set>	
+			<set id="otolaringolog">
+				<name>Отоларинголог</name>
+			</set>	
+			<set id="oftalmolog">
+				<name>Офтальмолог</name>
+			</set>
+			<set id="pediatr">
+				<name>Педиатр</name>
+			</set>
+			<set id="psihiatr">
+				<name>Психиатр</name>
+			</set>
+			<set id="revmatolog">
+				<name>Ревматолог</name>
+			</set>
+			<set id="dermatolog">
+				<name>Дерматолог</name>
+			</set>
+		</sets>
+		<offers>
+			<offer id="1">
+				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/irina-nikolaevna-romanova/?utm_source=yandexserp</url>
+				<name>Танчук Елена Валерьевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3338-3963-4663-a162-656463366339/-/resize/460x/-/format/webp/d7nv1qzzjwzik4rfkzpg.jpg</picture>
+				<param name="Годы опыта">27</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>aky-gin,mamolog,yzi</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">24</param>
+			</offer>
+			<offer id="2">
+				<url>https://familydoctor.spb.ru/staff/andrologiya/andrey-borisovich-batko/?utm_source=yandexserp</url>
+				<name>Батько Андрей Борисович</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3837-3736-4537-a238-373937343432/-/resize/460x/-/format/webp/evzsfn5zgi4kw2bf3dde.jpg</picture>
+				<param name="Годы опыта">28</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>yrolog,angrolog,yzi</set-ids>
+				<param name="Средняя оценка">4.6</param>
+				<param name="Число отзывов">22</param>
+			</offer>
+			<offer id="3">
+				<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/firuz-usmanovich-baymuradov/?utm_source=yandexserp</url>
+				<name>Баймурадов Фируз Усманович</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6462-3537-4334-a361-656139323839/-/resize/460x/-/format/webp/3cm44o5pttlbe25h3p6f.jpg</picture>
+				<param name="Годы опыта">25</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>terapevt</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">20</param>
+			</offer>
+			<offer id="4">
+				<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/ablikova-marina-petrovna/?utm_source=yandexserp</url>
+				<name>Абликова Марина Петровна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3334-6365-4235-b666-353765363739/-/resize/460x/-/format/webp/3ydzcnpqy9dlv5clxv5n.jpg</picture>
+				<param name="Годы опыта">14</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>terapevt,kardiolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="5">
+				<url>https://familydoctor.spb.ru/staff/gastroenterologiya/efremova-elena-vyacheslavovna/?utm_source=yandexserp</url>
+				<name>Ефремова Елена Вячеславовна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3963-6236-4236-a161-346639313838/-/resize/460x/-/format/webp/tr1l7ufmx818a27j21h9.jpg</picture>
+				<param name="Годы опыта">23</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>gastroenterolog,dietolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">17</param>
+			</offer>
+			<offer id="6">
+				<url>https://familydoctor.spb.ru/staff/girudoterapiya/irina-vozgenovna-vlasova/?utm_source=yandexserp</url>
+				<name>Власова Ирина Возгеновна</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6263-6165-4130-b161-343433346133/-/resize/460x/-/format/webp/5fgkru34rc006uo6aac5.jpg</picture>
+				<param name="Годы опыта">36</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>gastroenterolog,dietolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">18</param>
+			</offer>
+			<offer id="7">
+				<url>https://familydoctor.spb.ru/staff/kardiolog-aritmolog/meshcherova-dinara-kyamilevna/?utm_source=yandexserp</url>
+				<name>Мещерова Динара Кямилевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3733-3266-4238-b730-633661336332/-/resize/460x/-/format/webp/utclnhnobrbmt3g07btt.JPG</picture>
+				<param name="Годы опыта">10</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">10</param>
+			</offer>
+			<offer id="8">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/dvornikov-viktor-viktorovich/?utm_source=yandexserp</url>
+				<name>Дворников Виктор Викторович</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6537-3731-4930-a265-303433626339/-/resize/460x/-/format/webp/3rscc3m9ezj4g2aevisx.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.6</param>
+				<param name="Число отзывов">12</param>
+			</offer>
+			<offer id="9">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/krylova-yuliya-sergeevna/?utm_source=yandexserp</url>
+				<name>Крылова Юлия Сергеевна</name>
+				<price>2300</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6436-3532-4064-b061-376166656134/-/resize/460x/-/format/webp/aa893ltbjq5o5qm3pkr8.jpg</picture>
+				<param name="Годы опыта">18</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,yzi</set-ids>
+				<param name="Средняя оценка">4.6</param>
+				<param name="Число отзывов">16</param>
+			</offer>
+			<offer id="10">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/botsva-irina-yurevna/?utm_source=yandexserp</url>
+				<name>Боцва Ирина Юрьевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6132-6662-4161-b730-366137653630/-/resize/460x/-/format/webp/nopwx58x5ekb9v1vlo75.jpg</picture>
+				<param name="Годы опыта">18</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">16</param>
+			</offer>
+			<offer id="11">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/kamenev-aleksandr-valentinovich/?utm_source=yandexserp</url>
+				<name>Каменев Александр Валентинович</name>
+				<price>4500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3132-3837-4436-b832-663439383731/-/resize/460x/-/format/webp/x73c3j77z1zetn7ktilq.jpg</picture>
+				<param name="Годы опыта">15</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog,kardiohirurg</set-ids>
+				<param name="Средняя оценка">4.9</param>
+				<param name="Число отзывов">17</param>
+			</offer>
+			<offer id="12">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/kryatova-tatyana-vadimovna/?utm_source=yandexserp</url>
+				<name>Крятова Татьяна Вадимовна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3239-6230-4961-a366-636134633230/-/resize/460x/-/format/webp/4p4r6qg4p5lhwqmz2vlv.jpg</picture>
+				<param name="Годы опыта">40</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.9</param>
+				<param name="Число отзывов">18</param>
+			</offer>
+			<offer id="13">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/sokurenko-natalya-sergeevna/?utm_source=yandexserp</url>
+				<name>Сокуренко Наталья Сергеевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3962-6330-4463-b366-313335303633/-/resize/460x/-/format/webp/1b6ju7bypzdf3ordl14l.jpg</picture>
+				<param name="Годы опыта">30</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.9</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="14">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/plemyannikova-ekaterina-vladimirovna/?utm_source=yandexserp</url>
+				<name>Племянникова Екатерина Владимировна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6462-3362-4465-b539-343930303732/-/resize/460x/-/format/webp/mr11u805q6rf0n9h5rti.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog</set-ids>
+				<param name="Средняя оценка">4.9</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="15">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/olga-olegovna-kvasova/?utm_source=yandexserp</url>
+				<name>Квасова Ольга Олеговна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3066-3431-4734-b431-303661333237/-/resize/460x/-/format/webp/37t8024pbtfbl6ipguuz.jpg</picture>
+				<param name="Годы опыта">36</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="16">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/mariya-albertovna-baturova/?utm_source=yandexserp</url>
+				<name>Батурова Мария Альбертовна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6638-3935-4131-b630-303034623166/-/resize/460x/-/format/webp/q81sn3uef6lo80ywpyi1.jpg</picture>
+				<param name="Годы опыта">27</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">13</param>
+			</offer>
+			<offer id="17">
+				<url>https://familydoctor.spb.ru/staff/kardiologiya/aleksey-evgenevich-rivin/?utm_source=yandexserp</url>
+				<name>Ривин Алексей Евгеньевич</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3930-3764-4135-b232-333664373962/-/resize/460x/-/format/webp/6byqx55iilp14juunh0e.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>kardiolog,aritmolog</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="18">
+				<url>https://familydoctor.spb.ru/staff/manualnaya-terapiya/zubarev-yuriy-viktorovich/?utm_source=yandexserp</url>
+				<name>Зубарев Юрий Викторович</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6366-6662-4438-b336-633636656234/-/resize/460x/-/format/webp/rjo2jrgm0x6da56h8r43.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>manualnyj terapevt</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">13</param>
+			</offer>
+			<offer id="19">
+				<url>https://familydoctor.spb.ru/staff/nevrologiya/elena-vladimirovna-marekha/?utm_source=yandexserp</url>
+				<name>Марьеха Елена Владимировна</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6136-3562-4133-a338-346366663436/-/resize/460x/-/format/webp/noroot_2.jpg</picture>
+				<param name="Годы опыта">17</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>nevrolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">18</param>
+			</offer>
+			<offer id="20">
+				<url>https://familydoctor.spb.ru/staff/nevrologiya/svetlana-alekseevna-vakushkina/?utm_source=yandexserp</url>
+				<name>Вакушкина Светлана Алексеевна</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6561-6564-4932-a435-396534353763/-/resize/460x/-/format/webp/sepi8ld0513181wtfvxw.jpg</picture>
+				<param name="Годы опыта">30</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>nevrolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">22</param>
+			</offer>
+			<offer id="21">
+				<url>https://familydoctor.spb.ru/staff/ortopediya/aleksandr-vladimirovich-vakushkin/?utm_source=yandexserp</url>
+				<name>Вакушкин Александр Владимирович</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6239-3362-4936-b063-646136616136/-/resize/460x/-/format/webp/x8wu5w3lokq68eyc94l3.jpg</picture>
+				<param name="Годы опыта">43</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>ortoped,travmatolog,hirurg</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">20</param>
+			</offer>
+			<offer id="22">
+				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/rotar-alla-yurevna/?utm_source=yandexserp</url>
+				<name>Ротарь Алла Юрьевна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3462-3030-4134-a632-616334333834/-/resize/460x/-/format/webp/2hzh4uc2x265m0xvqoff.jpg</picture>
+				<param name="Годы опыта">6</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>yzi</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">5</param>
+			</offer>
+			<offer id="23">
+				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/zadionova-elena-borisovna/?utm_source=yandexserp</url>
+				<name>Задионова Елена Борисовна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6337-3139-4963-a135-333961626465/-/resize/460x/-/format/webp/lcebhy7vb27wf9qclc5c.jpg</picture>
+				<param name="Годы опыта">5</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>yzi</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">5</param>
+			</offer>
+			<offer id="24">
+				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/sergey-petrovich-nikitin/?utm_source=yandexserp</url>
+				<name>Никитин Сергей Петрович</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3536-6265-4339-b135-343236346339/-/resize/460x/-/format/webp/aetqiy63bxjk0y9d2uc0.jpg</picture>
+				<param name="Годы опыта">10</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>yzi</set-ids>
+				<param name="Средняя оценка">4.5</param>
+				<param name="Число отзывов">5</param>
+			</offer>
+			<offer id="25">
+				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/ilona-evgenevna-nikolaenko/?utm_source=yandexserp</url>
+				<name>Николаенко Илона Евгеньевна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3636-3039-4263-b638-303666373735/-/resize/460x/-/format/webp/photo.jpg</picture>
+				<param name="Годы опыта">29</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>yzi</set-ids>
+				<param name="Средняя оценка">4.6</param>
+				<param name="Число отзывов">19</param>
+			</offer>
+			<offer id="26">
+				<url>https://familydoctor.spb.ru/staff/otolaringologiya/slobodyanyuk-ilya-sergeevich/?utm_source=yandexserp</url>
+				<name>Слободянюк Илья Сергеевич</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6536-6238-4464-a531-373934636663/-/resize/460x/-/format/webp/jxgkjlzzqvja5s8ilrgl.jpg</picture>
+				<param name="Годы опыта">12</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>otolaringolog</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">19</param>
+			</offer>
+			<offer id="27">
+				<url>https://familydoctor.spb.ru/staff/oftalmologiya/serdyukova-svetlana-anatolevna/?utm_source=yandexserp</url>
+				<name>Сердюкова Светлана Анатольевна</name>
+				<price>1500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6562-6539-4665-a431-363762363862/-/resize/460x/-/format/webp/1kcymp4i2xg3g0j3vj4b.jpg</picture>
+				<param name="Годы опыта">15</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>oftalmolog</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">13</param>
+			</offer>
+				<offer id="28">
+				<url>https://familydoctor.spb.ru/staff/pediatriya/svetlana-leonidovna-pankova/?utm_source=yandexserp</url>
+				<name>Панкова Светлана Леонидовна</name>
+				<price>1700</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3266-3739-4536-a539-383461363564/-/resize/460x/-/format/webp/8lmlhbzpb6mslk4c23ir.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>pediatr</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="29">
+				<url>https://familydoctor.spb.ru/staff/pediatriya/emelyanova-oksana-gennadevna/?utm_source=yandexserp</url>
+				<name>Емельянова Оксана Геннадьевна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6365-3638-4361-a531-613637303666/-/resize/460x/-/format/webp/so3zoeykaa72dvctirva.jpg</picture>
+				<param name="Годы опыта">27</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>nevrolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="30">
+				<url>https://familydoctor.spb.ru/staff/pediatriya/kashmenskaya-varvara-nikolaevna/?utm_source=yandexserp</url>
+				<name>Кашменская Варвара Николаевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3031-3238-4264-b734-653236333331/-/resize/460x/-/format/webp/l5rsiapazl1vgynedsgr.jpg</picture>
+				<param name="Годы опыта">12</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>pediatr</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">12</param>
+			</offer>
+			<offer id="31">
+				<url>https://familydoctor.spb.ru/staff/pmikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
+				<name>Кушнир Ольга Николаевна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3733-3962-4737-b330-623430343466/-/resize/460x/-/format/webp/qs7lsdp1g695elm2z5mm.jpg</picture>
+				<param name="Годы опыта">28</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>psihiatr</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">17</param>
+			</offer>
+			<offer id="32">
+				<url>https://familydoctor.spb.ru/staff/revmatologi/olga-vladimirovna-pobegay/?utm_source=yandexserp</url>
+				<name>Побегай Ольга Владимировна</name>
+				<price>4100</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3166-6163-4561-b535-323537393836/-/resize/460x/-/format/webp/2tpdyh00l4rcibuywkox.jpg</picture>
+				<param name="Годы опыта">25</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>revmatolog,kardiolog</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">17</param>
+			</offer>
+			<offer id="33">
+				<url>https://familydoctor.spb.ru/staff/sosudistaya-khirurgiya-flebologiya/fomin-kirill-nikolaevich/?utm_source=yandexserp</url>
+				<name>Фомин Кирилл Николаевич</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3162-3161-4433-a465-633061306537/-/resize/460x/-/format/webp/ibe8wivvye3g5us79ogk.jpg</picture>
+				<param name="Годы опыта">13</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>flebolog</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">13</param>
+			</offer>
+			<offer id="34">
+				<url>https://familydoctor.spb.ru/staff/endokrinologi/kornilova-olesya-valerevna/?utm_source=yandexserp</url>
+				<name>Корнилова Олеся Валерьевна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3266-3038-4238-a636-643832376462/-/resize/460x/-/format/webp/y5n6tny2xid51krvj5jk.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>endokrinolog,yzi</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">13</param>
+			</offer>
+			<offer id="35">
+				<url>https://familydoctor.spb.ru/staff/dermatovenerologiya/germer-anna-mikhaylovna/?utm_source=yandexserp</url>
+				<name>Гермер Анна Михайловна</name>
+				<price>2000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3864-6439-4731-b362-613633633164/-/resize/460x/-/format/webp/_.jpg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>dermatolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="36">
+				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/zhigalova-elena-vladimirovna/?utm_source=yandexserp</url>
+				<name>Жигалова Елена Владимировна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6363-6335-4934-a565-643938346533/-/resize/460x/-/format/webp/1000-af0732c745efd9c.jpeg</picture>
+				<param name="Годы опыта">20</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>aky-gin</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+			</offer>
+			<offer id="37">
+				<url>https://familydoctor.spb.ru/staff/nazarov-ivan-aleksandrovich/?utm_source=yandexserp</url>
+				<name>Назаров Иван Александрович</name>
+				<price>1800</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3830-6166-4562-b261-393463396362/-/resize/460x/-/format/webp/photo_2024-12-04_125.jpeg</picture>
+				<param name="Годы опыта">4</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>terapevt</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">9</param>
+			</offer>
+			<offer id="38">
+				<url>https://familydoctor.spb.ru/staff/lukyanova-marina-yurevna/?utm_source=yandexserp</url>
+				<name>Лукьянова Марина Юрьевна</name>
+				<price>1800</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3761-3236-4562-b036-666531643662/-/resize/460x/-/format/webp/photo.jpg</picture>
+				<param name="Годы опыта">1</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>terapevt</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">4</param>
+			</offer>
+			<offer id="39">
+				<url>https://familydoctor.spb.ru/staff/fakhrutdinova-aygul-minsalikhovna/?utm_source=yandexserp</url>
+				<name>Фахрутдинова Айгуль Минсалиховна</name>
+				<price>1800</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3262-3034-4763-b137-353931626661/-/resize/460x/-/format/webp/photo.jpg</picture>
+				<param name="Годы опыта">4</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Частная клиника Семейный доктор в Санкт-Петербурге</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>terapevt</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">8</param>
+			</offer>	
+		</offers>
+	</shop>
+</yml_catalog>
+	
+			
+			
