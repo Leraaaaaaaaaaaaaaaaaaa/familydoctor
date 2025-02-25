@@ -115,7 +115,7 @@
 		<offers>
 			<offer id="1">
 				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/irina-nikolaevna-romanova/?utm_source=yandexserp</url>
-				<name>Танчук Елена Валерьевна</name>
+				<name>Романова Ирина Николаевна</name>
 				<price>3000</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
@@ -893,6 +893,29 @@
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">8</param>
 			</offer>	
+			<offer id="40">
+				<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna//?utm_source=yandexserp</url>
+				<name>Чугреева Ольга Николаевна</name>
+				<price>1700</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6639-3061-4733-b934-623639363133/-/resize/460x/-/format/webp/unnamed.jpg</picture>
+				<param name="Годы опыта">35</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Семейный доктор</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>pediatr</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">8</param>
+			</offer>	
 		</offers>
 	</shop>
 </yml_catalog>
+	
+			
+			
