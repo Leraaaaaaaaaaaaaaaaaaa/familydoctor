@@ -894,7 +894,7 @@
 				<param name="Число отзывов">8</param>
 			</offer>	
 			<offer id="40">
-				<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna//?utm_source=yandexserp</url>
+				<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna/?utm_source=yandexserp</url>
 				<name>Чугреева Ольга Николаевна</name>
 				<price>1700</price>
 				<categoryId>100</categoryId>
@@ -912,6 +912,26 @@
 				<set-ids>pediatr</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">8</param>
+			</offer>	
+			<offer id="41">
+				<url>https://familydoctor.spb.ru/staff/nevrologiya/merkulova-natalya-ivanovna/?utm_source=yandexserp</url>
+				<name>Меркулова Наталья Ивановна</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3161-3934-4866-a638-383337356566/-/resize/920x/-/format/webp/_1.jpg</picture>
+				<param name="Годы опыта">17</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Семейный доктор</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>nevrolog</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">16</param>
 			</offer>	
 		</offers>
 	</shop>
