@@ -859,7 +859,7 @@
 				<price>1800</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild3262-3034-4763-b137-353931626661/-/resize/460x/-/format/webp/photo.jpg.webp/picture>
+				<picture>https://optim.tildacdn.com/tild3262-3034-4763-b137-353931626661/-/resize/460x/-/format/webp/photo.jpg.webp</picture>
 				<param name="Годы опыта">4</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
