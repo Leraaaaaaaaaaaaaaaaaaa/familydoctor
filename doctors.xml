@@ -853,26 +853,6 @@
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">9</param>
 			</offer>
-			<offer id="39">
-				<url>https://familydoctor.spb.ru/staff/fakhrutdinova-aygul-minsalikhovna/?utm_source=yandexserp</url>
-				<name>Фахрутдинова Айгуль Минсалиховна</name>
-				<price>1800</price>
-				<categoryId>100</categoryId>
-				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild3262-3034-4763-b137-353931626661/-/resize/460x/-/format/webp/photo.jpg.webp</picture>
-				<param name="Годы опыта">4</param>
-				<param name="Город">г. Санкт-Петербург</param>
-				<param name="Взрослый врач">true</param>
-				<param name="Город клиники">г. Санкт-Петербург</param>
-				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
-				<param name="Название клиники">Семейный доктор</param>
-				<param name="Возможность записи">true</param>
-				<param name="Онлайн-расписание">false</param>
-				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>terapevt</set-ids>
-				<param name="Средняя оценка">4.8</param>
-				<param name="Число отзывов">8</param>
-			</offer>	
 			<offer id="40">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna/?utm_source=yandexserp</url>
 				<name>Чугреева Ольга Николаевна</name>
