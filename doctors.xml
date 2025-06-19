@@ -132,6 +132,7 @@
 				<set-ids>aky-gin,mammolog,yzi</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">24</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="2">
 				<url>https://familydoctor.spb.ru/staff/andrologiya/andrey-borisovich-batko/?utm_source=yandexserp</url>
@@ -152,6 +153,7 @@
 				<set-ids>yrolog,angrolog,yzi</set-ids>
 				<param name="Средняя оценка">4.6</param>
 				<param name="Число отзывов">22</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="3">
 				<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/firuz-usmanovich-baymuradov/?utm_source=yandexserp</url>
@@ -172,6 +174,7 @@
 				<set-ids>terapevt</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">20</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="4">
 				<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/ablikova-marina-petrovna/?utm_source=yandexserp</url>
@@ -192,6 +195,7 @@
 				<set-ids>terapevt,kardiolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="5">
 				<url>https://familydoctor.spb.ru/staff/gastroenterologiya/efremova-elena-vyacheslavovna/?utm_source=yandexserp</url>
@@ -212,6 +216,7 @@
 				<set-ids>gastroenterolog,dietolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">17</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="6">
 				<url>https://familydoctor.spb.ru/staff/girudoterapiya/irina-vozgenovna-vlasova/?utm_source=yandexserp</url>
@@ -232,6 +237,7 @@
 				<set-ids>gastroenterolog,dietolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">18</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="7">
 				<url>https://familydoctor.spb.ru/staff/kardiolog-aritmolog/meshcherova-dinara-kyamilevna/?utm_source=yandexserp</url>
@@ -252,6 +258,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">10</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="8">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/dvornikov-viktor-viktorovich/?utm_source=yandexserp</url>
@@ -272,6 +279,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.6</param>
 				<param name="Число отзывов">12</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="9">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/krylova-yuliya-sergeevna/?utm_source=yandexserp</url>
@@ -292,6 +300,7 @@
 				<set-ids>kardiolog,yzi</set-ids>
 				<param name="Средняя оценка">4.6</param>
 				<param name="Число отзывов">16</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="10">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/botsva-irina-yurevna/?utm_source=yandexserp</url>
@@ -312,6 +321,7 @@
 				<set-ids>kardiolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">16</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="11">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/kamenev-aleksandr-valentinovich/?utm_source=yandexserp</url>
@@ -332,6 +342,7 @@
 				<set-ids>kardiolog,aritmolog,kardiohirurg</set-ids>
 				<param name="Средняя оценка">4.9</param>
 				<param name="Число отзывов">17</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="12">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/kryatova-tatyana-vadimovna/?utm_source=yandexserp</url>
@@ -352,6 +363,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.9</param>
 				<param name="Число отзывов">18</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="13">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/sokurenko-natalya-sergeevna/?utm_source=yandexserp</url>
@@ -372,6 +384,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.9</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="14">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/plemyannikova-ekaterina-vladimirovna/?utm_source=yandexserp</url>
@@ -392,6 +405,7 @@
 				<set-ids>kardiolog</set-ids>
 				<param name="Средняя оценка">4.9</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="15">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/olga-olegovna-kvasova/?utm_source=yandexserp</url>
@@ -412,6 +426,7 @@
 				<set-ids>kardiolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="16">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/mariya-albertovna-baturova/?utm_source=yandexserp</url>
@@ -432,6 +447,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">13</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="17">
 				<url>https://familydoctor.spb.ru/staff/kardiologiya/aleksey-evgenevich-rivin/?utm_source=yandexserp</url>
@@ -452,6 +468,7 @@
 				<set-ids>kardiolog,aritmolog</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="18">
 				<url>https://familydoctor.spb.ru/staff/manualnaya-terapiya/zubarev-yuriy-viktorovich/?utm_source=yandexserp</url>
@@ -472,6 +489,7 @@
 				<set-ids>manualnyj terapevt</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">13</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="19">
 				<url>https://familydoctor.spb.ru/staff/nevrologiya/elena-vladimirovna-marekha/?utm_source=yandexserp</url>
@@ -492,6 +510,7 @@
 				<set-ids>nevrolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">18</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="20">
 				<url>https://familydoctor.spb.ru/staff/nevrologiya/svetlana-alekseevna-vakushkina/?utm_source=yandexserp</url>
@@ -512,6 +531,7 @@
 				<set-ids>nevrolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">22</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="21">
 				<url>https://familydoctor.spb.ru/staff/ortopediya/aleksandr-vladimirovich-vakushkin/?utm_source=yandexserp</url>
@@ -532,6 +552,7 @@
 				<set-ids>ortoped,travmatolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">20</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="22">
 				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/rotar-alla-yurevna/?utm_source=yandexserp</url>
@@ -552,6 +573,7 @@
 				<set-ids>yzi</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">5</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="23">
 				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/zadionova-elena-borisovna/?utm_source=yandexserp</url>
@@ -572,6 +594,7 @@
 				<set-ids>yzi</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">5</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="24">
 				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/sergey-petrovich-nikitin/?utm_source=yandexserp</url>
@@ -592,6 +615,7 @@
 				<set-ids>yzi</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">5</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="25">
 				<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/ilona-evgenevna-nikolaenko/?utm_source=yandexserp</url>
@@ -612,6 +636,7 @@
 				<set-ids>yzi</set-ids>
 				<param name="Средняя оценка">4.6</param>
 				<param name="Число отзывов">19</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="26">
 				<url>https://familydoctor.spb.ru/staff/otolaringologiya/slobodyanyuk-ilya-sergeevich/?utm_source=yandexserp</url>
@@ -632,6 +657,7 @@
 				<set-ids>otolaringolog</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">19</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 				<offer id="28">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/svetlana-leonidovna-pankova/?utm_source=yandexserp</url>
@@ -652,6 +678,7 @@
 				<set-ids>pediatr</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="29">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/emelyanova-oksana-gennadevna/?utm_source=yandexserp</url>
@@ -672,6 +699,7 @@
 				<set-ids>nevrolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="30">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/kashmenskaya-varvara-nikolaevna/?utm_source=yandexserp</url>
@@ -692,6 +720,7 @@
 				<set-ids>pediatr</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">12</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="31">
 				<url>https://familydoctor.spb.ru/staff/pmikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
@@ -712,6 +741,7 @@
 				<set-ids>psihiatr</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">17</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="32">
 				<url>https://familydoctor.spb.ru/staff/revmatologi/olga-vladimirovna-pobegay/?utm_source=yandexserp</url>
@@ -732,6 +762,7 @@
 				<set-ids>revmatolog,kardiolog</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">17</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="33">
 				<url>https://familydoctor.spb.ru/staff/sosudistaya-khirurgiya-flebologiya/fomin-kirill-nikolaevich/?utm_source=yandexserp</url>
@@ -752,6 +783,7 @@
 				<set-ids>flebolog</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">13</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="34">
 				<url>https://familydoctor.spb.ru/staff/endokrinologi/kornilova-olesya-valerevna/?utm_source=yandexserp</url>
@@ -772,6 +804,7 @@
 				<set-ids>endokrinolog,yzi</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">13</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="35">
 				<url>https://familydoctor.spb.ru/staff/dermatovenerologiya/germer-anna-mikhaylovna/?utm_source=yandexserp</url>
@@ -792,6 +825,7 @@
 				<set-ids>dermatolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="36">
 				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/zhigalova-elena-vladimirovna/?utm_source=yandexserp</url>
@@ -812,6 +846,7 @@
 				<set-ids>aky-gin</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="37">
 				<url>https://familydoctor.spb.ru/staff/nazarov-ivan-aleksandrovich/?utm_source=yandexserp</url>
@@ -832,6 +867,7 @@
 				<set-ids>terapevt</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">9</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="38">
 				<url>https://familydoctor.spb.ru/staff/endokrinologi/sytina-oksana-nikolayevna/?utm_source=yandexserp</url>
@@ -852,6 +888,7 @@
 				<set-ids>endokrinolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">9</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>
 			<offer id="40">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna/?utm_source=yandexserp</url>
@@ -872,6 +909,7 @@
 				<set-ids>pediatr</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">8</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>	
 			<offer id="41">
 				<url>https://familydoctor.spb.ru/staff/nevrologiya/merkulova-natalya-ivanovna/?utm_source=yandexserp</url>
@@ -892,6 +930,7 @@
 				<set-ids>nevrolog</set-ids>
 				<param name="Средняя оценка">4.7</param>
 				<param name="Число отзывов">16</param>
+				<param name="Идентификатор организации">119371757249</param>
 			</offer>	
 		</offers>
 	</shop>
