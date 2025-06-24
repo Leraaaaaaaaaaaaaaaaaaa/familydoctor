@@ -827,27 +827,6 @@
 				<param name="Число отзывов">14</param>
 				<param name="Идентификатор организации">119371757249</param>
 			</offer>
-			<offer id="36">
-				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/zhigalova-elena-vladimirovna/?utm_source=yandexserp</url>
-				<name>Жигалова Елена Владимировна</name>
-				<price>3000</price>
-				<categoryId>100</categoryId>
-				<currencyId>RUR</currencyId>
-				<picture>https://static.tildacdn.com/tild6363-6335-4934-a565-643938346533/1000-af0732c745efd9c.jpeg</picture>
-				<param name="Годы опыта">20</param>
-				<param name="Город">г. Санкт-Петербург</param>
-				<param name="Взрослый врач">true</param>
-				<param name="Город клиники">г. Санкт-Петербург</param>
-				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
-				<param name="Название клиники">Семейный доктор</param>
-				<param name="Возможность записи">true</param>
-				<param name="Онлайн-расписание">false</param>
-				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>aky-gin</set-ids>
-				<param name="Средняя оценка">4.8</param>
-				<param name="Число отзывов">14</param>
-				<param name="Идентификатор организации">119371757249</param>
-			</offer>
 			<offer id="37">
 				<url>https://familydoctor.spb.ru/staff/nazarov-ivan-aleksandrovich/?utm_source=yandexserp</url>
 				<name>Назаров Иван Александрович</name>
@@ -865,27 +844,6 @@
 				<param name="Онлайн-расписание">false</param>
 				<param name="Телефон для записи">+7 (812) 677-30-15</param>
 				<set-ids>terapevt</set-ids>
-				<param name="Средняя оценка">4.8</param>
-				<param name="Число отзывов">9</param>
-				<param name="Идентификатор организации">119371757249</param>
-			</offer>
-			<offer id="38">
-				<url>https://familydoctor.spb.ru/staff/endokrinologi/sytina-oksana-nikolayevna/?utm_source=yandexserp</url>
-				<name>Сытина Оксана Николаевна</name>
-				<price>2500</price>
-				<categoryId>100</categoryId>
-				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild3330-3637-4938-b761-366365353634/-/resize/460x/-/format/webp/_2.jpg.webp</picture>
-				<param name="Годы опыта">25</param>
-				<param name="Город">г. Санкт-Петербург</param>
-				<param name="Взрослый врач">true</param>
-				<param name="Город клиники">г. Санкт-Петербург</param>
-				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
-				<param name="Название клиники">Семейный доктор</param>
-				<param name="Возможность записи">true</param>
-				<param name="Онлайн-расписание">false</param>
-				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>endokrinolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">9</param>
 				<param name="Идентификатор организации">119371757249</param>
