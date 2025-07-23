@@ -659,6 +659,27 @@
 				<param name="Число отзывов">19</param>
 				<param name="Идентификатор организации">119371757249</param>
 			</offer>
+					<offer id="27">
+				<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/drozhenko-alyona-konstantinovna/?utm_source=yandexserp</url>
+				<name>Дроженко Алёна Константиновна</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild3133-3463-4564-a234-616235663036/-/resize/460x/-/format/webp/_3.jpg.webp</picture>
+				<param name="Годы опыта">10</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Семейный доктор</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>aky-gin</set-ids>
+				<param name="Средняя оценка">4.7</param>
+				<param name="Число отзывов">19</param>
+				<param name="Идентификатор организации">119371757249</param>
+			</offer>
 				<offer id="28">
 				<url>https://familydoctor.spb.ru/staff/pediatriya/svetlana-leonidovna-pankova/?utm_source=yandexserp</url>
 				<name>Панкова Светлана Леонидовна</name>
@@ -823,6 +844,27 @@
 				<param name="Онлайн-расписание">false</param>
 				<param name="Телефон для записи">+7 (812) 677-30-15</param>
 				<set-ids>dermatolog</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">14</param>
+				<param name="Идентификатор организации">119371757249</param>
+			</offer>
+					<offer id="36">
+				<url>https://familydoctor.spb.ru/staff/oftalmologiya/semenova-natalya-valerevna/?utm_source=yandexserp</url>
+				<name>Семенова Наталья Валерьевна</name>
+				<price>2500</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6234-3961-4165-a338-653764396361/-/resize/460x/-/format/webp/wwwaristacardioru_1_.jpg.webp</picture>
+				<param name="Годы опыта">15</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Семейный доктор</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>oftalmolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">14</param>
 				<param name="Идентификатор организации">119371757249</param>
