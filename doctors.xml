@@ -111,6 +111,9 @@
 			<set id="dermatolog">
 				<name>Дерматолог</name>
 			</set>
+				<set id="pulmonolog">
+				<name>Пульмонолог</name>
+			</set>
 		</sets>
 		<offers>
 			<offer id="1">
@@ -886,6 +889,27 @@
 				<param name="Онлайн-расписание">false</param>
 				<param name="Телефон для записи">+7 (812) 677-30-15</param>
 				<set-ids>terapevt</set-ids>
+				<param name="Средняя оценка">4.8</param>
+				<param name="Число отзывов">9</param>
+				<param name="Идентификатор организации">119371757249</param>
+			</offer>
+					<offer id="38">
+				<url>https://familydoctor.spb.ru/staff/pulmonologiya/kupayev-vitaliy-ivanovich/?utm_source=yandexserp</url>
+				<name>Купаев Виталий Иванович</name>
+				<price>3000</price>
+				<categoryId>100</categoryId>
+				<currencyId>RUR</currencyId>
+				<picture>https://optim.tildacdn.com/tild6336-3238-4235-a261-643363646636/-/resize/460x/-/format/webp/_.jpg.webp</picture>
+				<param name="Годы опыта">36</param>
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param>
+				<param name="Город клиники">г. Санкт-Петербург</param>
+				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
+				<param name="Название клиники">Семейный доктор</param>
+				<param name="Возможность записи">true</param>
+				<param name="Онлайн-расписание">false</param>
+				<param name="Телефон для записи">+7 (812) 677-30-15</param>
+				<set-ids>pulmonolog</set-ids>
 				<param name="Средняя оценка">4.8</param>
 				<param name="Число отзывов">9</param>
 				<param name="Идентификатор организации">119371757249</param>
