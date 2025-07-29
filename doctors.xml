@@ -81,7 +81,7 @@
 			<set id="kardiohirurg">
 				<name>Кардиохирург</name>
 			</set>	
-			<set id="manualnyj terapevt">
+			<set id="manualnyj-terapevt">
 				<name>Мануальный терапевт</name>
 			</set>	
 			<set id="nevrolog">
@@ -489,7 +489,7 @@
 				<param name="Возможность записи">true</param>
 				<param name="Онлайн-расписание">false</param>
 				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>manualnyj terapevt</set-ids>
+				<set-ids>manualnyj-terapevt</set-ids>
 				<param name="Средняя оценка">4.5</param>
 				<param name="Число отзывов">13</param>
 				<param name="Идентификатор организации">119371757249</param>
