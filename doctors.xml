@@ -12,7 +12,7 @@
 			<set id="yrolog">
 				<name>Уролог</name>
 			</set>
-			<set id="ginekolog-end">
+			<set id="ginekolog-end"> 
 				<name>Гинеколог-эндокринолог</name>
 			</set>
 			<set id="aky-gin">
