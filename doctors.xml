@@ -332,7 +332,7 @@
 				<price>4500</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild3132-3837-4436-b832-663439383731/-/format/webp/x73c3j77z1zetn7ktilq.jpg.webp</picture>
+				<picture>https://static.tildacdn.com/tild3132-3837-4436-b832-663439383731/x73c3j77z1zetn7ktilq.jpg</picture>
 				<param name="Годы опыта">15</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
@@ -437,7 +437,7 @@
 				<price>3000</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild6638-3935-4131-b630-303034623166/-/format/webp/q81sn3uef6lo80ywpyi1.jpg.webp</picture>
+				<picture>https://static.tildacdn.com/tild6638-3935-4131-b630-303034623166/q81sn3uef6lo80ywpyi1.jpg</picture>
 				<param name="Годы опыта">27</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
@@ -668,7 +668,7 @@
 				<price>3000</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild3133-3463-4564-a234-616235663036/-/resize/460x/-/format/webp/_3.jpg.webp</picture>
+				<picture>https://static.tildacdn.com/tild3133-3463-4564-a234-616235663036/_3.jpg</picture>
 				<param name="Годы опыта">10</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
@@ -809,27 +809,6 @@
 				<param name="Число отзывов">13</param>
 				<param name="Идентификатор организации">119371757249</param>
 			</offer>
-			<offer id="34">
-				<url>https://familydoctor.spb.ru/staff/endokrinologi/kornilova-olesya-valerevna/?utm_source=yandexserp</url>
-				<name>Корнилова Олеся Валерьевна</name>
-				<price>2000</price>
-				<categoryId>100</categoryId>
-				<currencyId>RUR</currencyId>
-				<picture>https://static.tildacdn.com/tild3266-3038-4238-a636-643832376462/y5n6tny2xid51krvj5jk.jpg</picture>
-				<param name="Годы опыта">20</param>
-				<param name="Город">г. Санкт-Петербург</param>
-				<param name="Взрослый врач">true</param>
-				<param name="Город клиники">г. Санкт-Петербург</param>
-				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
-				<param name="Название клиники">Семейный доктор</param>
-				<param name="Возможность записи">true</param>
-				<param name="Онлайн-расписание">false</param>
-				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>endokrinolog,yzi</set-ids>
-				<param name="Средняя оценка">4.7</param>
-				<param name="Число отзывов">13</param>
-				<param name="Идентификатор организации">119371757249</param>
-			</offer>
 			<offer id="35">
 				<url>https://familydoctor.spb.ru/staff/dermatovenerologiya/germer-anna-mikhaylovna/?utm_source=yandexserp</url>
 				<name>Гермер Анна Михайловна</name>
@@ -899,7 +878,7 @@
 				<price>3000</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild6336-3238-4235-a261-643363646636/-/resize/460x/-/format/webp/_.jpg.webp</picture>
+				<picture>https://static.tildacdn.com/tild6336-3238-4235-a261-643363646636/_.jpg</picture>
 				<param name="Годы опыта">36</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
@@ -956,34 +935,13 @@
 				<param name="Число отзывов">8</param>
 				<param name="Идентификатор организации">119371757249</param>
 			</offer>	
-			<offer id="41">
-				<url>https://familydoctor.spb.ru/staff/nevrologiya/merkulova-natalya-ivanovna/?utm_source=yandexserp</url>
-				<name>Меркулова Наталья Ивановна</name>
-				<price>2500</price>
-				<categoryId>100</categoryId>
-				<currencyId>RUR</currencyId>
-				<picture>https://static.tildacdn.com/tild3161-3934-4866-a638-383337356566/_1.jpg</picture>
-				<param name="Годы опыта">17</param>
-				<param name="Город">г. Санкт-Петербург</param>
-				<param name="Взрослый врач">true</param>
-				<param name="Город клиники">г. Санкт-Петербург</param>
-				<param name="Адрес клиники">ул. Парашютная, 23к2</param>
-				<param name="Название клиники">Семейный доктор</param>
-				<param name="Возможность записи">true</param>
-				<param name="Онлайн-расписание">false</param>
-				<param name="Телефон для записи">+7 (812) 677-30-15</param>
-				<set-ids>nevrolog</set-ids>
-				<param name="Средняя оценка">4.7</param>
-				<param name="Число отзывов">16</param>
-				<param name="Идентификатор организации">119371757249</param>
-			</offer>	
 						<offer id="42">
 				<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/tkachik-natalya-leonidovna/?utm_source=yandexserp</url>
 				<name>Ткачик Наталья Леонидовна</name>
 				<price>1800</price>
 				<categoryId>100</categoryId>
 				<currencyId>RUR</currencyId>
-				<picture>https://optim.tildacdn.com/tild6565-6431-4861-b564-313639623633/-/resize/460x/-/format/webp/_1.jpg.webp</picture>
+				<picture>https://static.tildacdn.com/tild6565-6431-4861-b564-313639623633/_1.jpg</picture>
 				<param name="Годы опыта">43</param>
 				<param name="Город">г. Санкт-Петербург</param>
 				<param name="Взрослый врач">true</param>
