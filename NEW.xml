@@ -509,20 +509,6 @@
 <grade>4.8</grade>
 </review>
 </doctor>
-<doctor id="doctor_38">
-<name>Морозова Анна Андреевна</name>
-<first_name>Анна</first_name>
-<surname>Морозова</surname>
-<patronymic>Андреевна</patronymic>
-<description/>
-<url>https://familydoctor.spb.ru/staff/endokrinologi/morozova-anna-andreevna/?utm_source=yandexserp</url>
-<picture>https://optim.tildacdn.com/tild3162-3631-4736-b539-393331343439/-/resize/460x/-/format/webp/_4.jpg.webp</picture>
-<experience_years>20</experience_years>
-<reviews_total_count>9</reviews_total_count>
-<review>
-<grade>4.8</grade>
-</review>
-</doctor>
 <doctor id="doctor_39">
 <name>Чугреева Ольга Николаевна</name>
 <first_name>Ольга</first_name>
@@ -1292,23 +1278,6 @@
 <clinic id="clinic_1">
 <doctor id="doctor_37">
 <speciality>Пульмонолог</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
-<offer id="offer_38">
-<url>https://familydoctor.spb.ru/staff/endokrinologi/morozova-anna-andreevna/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>3000</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_24"/>
-<clinic id="clinic_1">
-<doctor id="doctor_38">
-<speciality>Эндокринолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
