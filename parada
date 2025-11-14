@@ -1,0 +1,870 @@
+<shop version="2.0" date="2023-10-12 08:58">
+<name>Медицинская клиника PARADA</name>
+<company>ООО «Медицинская клиника PARADA»</company>
+<url>https://parada.clinic/</url>
+<picture>https://parada.clinic/local/templates/parada/assets/img/logo.svg</picture>
+<email>clinic@paradaplastika.ru</email>
+<doctors>
+<doctor id="doctor_1">
+<name>Усунгван Максим Вячеславович</name>
+<first_name>Максим</first_name>
+<surname>Усунгван</surname>
+<patronymic>Вячеславович</patronymic>
+<url>https://parada.clinic/specialists/usungvan-maksim-vyacheslavovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/88a/800_600_1/88a6f5d772c6166b7c75dfe282f839a3.jpg</picture>
+<experience_years>13</experience_years>
+<description>Опытный реконструктивно-пластический хирург, специализирующийся на пластических операциях молочной железы, мастопексии, липосакции, абдоминопластике, омолаживающих операциях на лице. Имеет обширный опыт стажировок и участия в международных конференциях. Является заведующим отделения пластической хирургии клиники “PARADA”.</description>
+<reviews_total_count>9</reviews_total_count>
+<review>
+<grade>5.0</grade>
+</review>
+</doctor>
+<doctor id="doctor_2">
+<name>Золотых Валерий Геннадьевич</name>
+<first_name>Валерий</first_name>
+<surname>Золотых</surname>
+<patronymic>Геннадьевич</patronymic>
+<url>https://parada.clinic/specialists/zolotykh-valeriy-gennadevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/e5f/800_600_1/e5f35e66939a3441f1446f06632a1648.jpeg</picture>
+<experience_years>19</experience_years>
+<description>Высококвалифицированный пластический эстетический и реконструктивный хирург, онколог, микрохирург.  Стаж работы более 19 лет. Ученый-исследователь К.М.Н. в области маммопластики. Член РОПРЭХ, член РОХ.  Специализация: реконструктивные, омолаживающие и бьютифицирующие операции на лице, груди, теле и конечностях.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_3">
+<name>Романова Татьяна Кирилловна</name>
+<first_name>Татьяна</first_name>
+<surname>Романова</surname>
+<patronymic>Кирилловна</patronymic>
+<url>https://parada.clinic/specialists/romanova-tatyana-kirillovna/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/621/800_600_1/6210842bcb02442147a0b5a76b36ab2d.jpg</picture>
+<experience_years>10</experience_years>
+<description>Квалифицированный пластический хирург, прошедший обучение и стажировки в ведущих медицинских учреждениях России, Бельгии, Тайваня, Индии и Испании. Специализируется на пластических операциях, таких как аугментация и мастопексия молочных желез, лабиопластика, блефаропластика  и абдоминопластика. Имеет опыт работы в общей и амбулаторной хирургии, онкохирургии.</description>
+<reviews_total_count>4</reviews_total_count>
+<review>
+<grade>5.0</grade>
+</review>
+</doctor>
+<doctor id="doctor_4">
+<name>Степанова Наталья Юрьевна</name>
+<first_name>Наталья</first_name>
+<surname>Степанова</surname>
+<patronymic>Юрьевна</patronymic>
+<url>https://parada.clinic/specialists/stepanova-natalya-yurevna-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/ecf/800_600_1/ecf9a5ab6b6dfa46875c694202c35054.jpg</picture>
+<experience_years>5</experience_years>
+<description>Пластический хирург, прошедший ординатуру в Военно-медицинской академии им. Кирова. Специализируется на всех видах маммопластики, интимной пластике, комплексном омоложение лица и тела. </description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_5">
+<name>Елсуков Сергей Сергеевич</name>
+<first_name>Сергей</first_name>
+<surname>Елсуков</surname>
+<patronymic>Сергеевич</patronymic>
+<url>https://parada.clinic/specialists/elsukov-sergey-sergeevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/601/800_600_1/60157b06dc1e1b9e8d287287cbc203b7.JPG</picture>
+<experience_years>5</experience_years>
+<description>Специалист по пересадке волос и пластический хирург. Окончил Северо-Западный государственный медицинский университет им. И.И. Мечникова, а также прошёл ординатуру по пластической и реконструктивной хирургии в Санкт-Петербургском научно-исследовательском институте скорой помощи им. И.И. Джанилидзе. Имеет образование в области контурной пластики, мезотерапии и пересадки волос с использованием бесшовной методики FUE. Член Национального общества мезотерапии.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.6</grade>
+</review>
+</doctor>
+<doctor id="doctor_6">
+<name>Дубко Александр Игоревич</name>
+<first_name>Александр</first_name>
+<surname>Дубко</surname>
+<patronymic>Игоревич</patronymic>
+<url>https://parada.clinic/specialists/dubko-aleksandr-igorevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/f92/800_600_1/f924448f9c5465c10af91033530204fd.jpg</picture>
+<experience_years>6</experience_years>
+<description>Пластический хирург, окончил Северо-Западный государственный медицинский университет им. И.И. Мечникова и прошел ординатуру в Военно-медицинской академии им. С.М. Кирова. Специализируется на реконструктивных операциях на молочной железе после онкологических заболеваний и хирургическом лечении гинекомастии, активно участвует в профессиональных конференциях и конгрессах.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_7">
+<name>Агагюлов Мурад Уружбекович</name>
+<first_name>Мурад</first_name>
+<surname>Агагюлов</surname>
+<patronymic>Уружбекович</patronymic>
+<url>https://parada.clinic/specialists/agagyulov-murad-uruzhbekovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/iblock/384/3845221310c13f62ca7ba55e0226dd2e.jpg</picture>
+<experience_years>8</experience_years>
+<description>Опытный врач-уролог, хирург. Выпускник Северо-Западного государственного медицинского университета им. И.И. Мечникова. Специализируется на диагностике, консервативном и хирургическом лечении широкого спектра урологических заболеваний.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_8">
+<name>Ким Роман Вячеславович</name>
+<first_name>Роман</first_name>
+<surname>Ким</surname>
+<patronymic>Вячеславович</patronymic>
+<url>https://parada.clinic/specialists/kim-roman-vyacheslavovich-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/0e1/800_600_1/0e1931ef6a21a6d3a548ce6e5360a587.JPG</picture>
+<experience_years>10</experience_years>
+<description> Высококвалифицированный хирург с опытом работы в пластической и общей хирургии, проходивший стажировку в медицинском центре «ASAN» в Южной Корее. Специализируется на проведении абдоминопластики, липосакции,  увеличении,мастопексии и редукции молочных желез, блефаропластике. Выполняет комплексные операции на молочных железах и животе. Активно участвует в международных научных конференциях, совершенствуя свои навыки в экстренной и пластической хирургии.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_9">
+<name>Доколин Сергей Юрьевич</name>
+<first_name>Сергей</first_name>
+<surname>Доколин</surname>
+<patronymic>Юрьевич</patronymic>
+<url>https://parada.clinic/specialists/dokolin-sergey-yurevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/258/800_600_1/2584f9eddfc1e3fa5372abaaa5181fd1.JPG</picture>
+<experience_years>29</experience_years>
+<description>Травматолог-ортопед, артроскопист, врач высшей категории, доктор медицинских наук, специализирующийся на артроскопических  и открытых операциях в лечении заболеваний  и травм плечевого и коленного суставов. Один из немногих специалистов,владеющих методикой артроскопической операции Латарже, транспозиций  мышц при массажных повреждениях вращательной манжеты и реконструкции верхней капсулы.</description>
+<reviews_total_count>18</reviews_total_count>
+<review>
+<grade>5.0</grade>
+</review>
+</doctor>
+<doctor id="doctor_10">
+<name>Кузьмина Владислава Игоревна</name>
+<first_name>Владислава</first_name>
+<surname>Кузьмина</surname>
+<patronymic>Игоревна</patronymic>
+<url>https://parada.clinic/specialists/kuzmina-vladislava-igorevna/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/085/800_600_1/0856d4c4619650c7eb630eeeca098e0d.webp</picture>
+<experience_years>13</experience_years>
+<description>Травматолог – ортопед, артроскопист, врач высшей категории,  врач лечебной физкультуры и спортивной медицины, врач ультразвуковой диагностики, кандидат медицинских наук. 
+Опытный специалист в области спортивной медицины, артроскопической хирургии коленного и плечевого суставов, а также ортобиологии и кинезиотейпирования. Врач проводит консервативное лечение всех суставов.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_11">
+<name>Алькема Руслан Александрович</name>
+<first_name>Руслан</first_name>
+<surname>Алькема</surname>
+<patronymic>Александрович</patronymic>
+<url>https://parada.clinic/specialists/alkema-ruslan-aleksandrovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/dcd/800_600_1/dcd3929f370daec960c2a9417b7fc993.JPG</picture>
+<experience_years>14</experience_years>
+<description>Врач-хирург, пластический хирург с богатым опытом оказания экстренной и плановой хирургической помощи, начиная с 2010 года. Выполняет операции в области молочных желез, живота. Также специализируется на лапароскопической герниопластике, прошел множество сертификационных курсов по совершенствованию своих навыков в ведущих медицинских университетах Санкт-Петербурга.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_12">
+<name>Жарков Алексей Петрович</name>
+<first_name>Алексей</first_name>
+<surname>Жарков</surname>
+<patronymic>Петрович</patronymic>
+<url>https://parada.clinic/specialists/zharkov-aleksey-petrovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/iblock/7b9/7b9e9ec75418adc83659ff86214c7d47.jpg</picture>
+<experience_years>26</experience_years>
+<description>Выпускник Военно-медицинской академии, обладает многопрофильной подготовкой в областях инфекционных болезней, гастроэнтерологии, ультразвуковой диагностики. Является врачом общей практики. Отличается профессионализмом, трудолюбием и индивидуальным подходом к пациентам, придерживаясь доказательных принципов медицины и пропагандируя здоровый образ жизни.</description>
+<reviews_total_count>23</reviews_total_count>
+<review>
+<grade>5.0</grade>
+</review>
+</doctor>
+<doctor id="doctor_13">
+<name>Карпеев Станислав Анатольевич</name>
+<first_name>Станислав</first_name>
+<surname>Карпеев</surname>
+<patronymic>Анатольевич</patronymic>
+<url>https://parada.clinic/specialists/karpeev-stanislav-anatolevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/iblock/543/5436923a3bb28f57326aa3ded3dad005.jpg</picture>
+<experience_years>26</experience_years>
+<description>Опытный врач акушер-гинеколог и хирург, кандидат медицинских наук, обладающий 28-летним стажем работы. Специализируется на органосохраняющих операциях на матке, владеет современными эндоскопическими методами, активно участвует в научной и профессиональной деятельности, является членом российских медицинских сообществ.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_14">
+<name>Бугаева Лала Исмаиловна</name>
+<first_name>Лала</first_name>
+<surname>Бугаева</surname>
+<patronymic>Исмаиловна</patronymic>
+<url>https://parada.clinic/specialists/bugaeva-lala-ismailovna/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/56b/800_600_1/56b94407f4fab196e7891fe32b048258.jpg</picture>
+<experience_years>27</experience_years>
+<description>Терапевт и кардиолог с 28-летним стажем. Окончила Самарский государственный медицинский университет, затем прошла интернатуру по терапии. Имеет обширный опыт в кардиологии и клинической трансфузиологии, прошла переподготовку в СЗГМУ им. И.И. Мечникова по кардиологии и обучение по организации трансфузионной терапии. Является заведующей стационарным отделением ООО «Наша забота».</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_15">
+<name>Ковзиков Александр Борисович</name>
+<first_name>Александр</first_name>
+<surname>Ковзиков</surname>
+<patronymic>Борисович</patronymic>
+<url>https://parada.clinic/specialists/kovzikov-aleksandr-borisovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/2aa/800_600_1/2aa20c36f7e733e3e9c784829dc2b7b9.jpeg</picture>
+<experience_years>23</experience_years>
+<description>Врач травматолог-ортопед с 25-летним стажем. Специализируется на травматологии и ультразвуковой диагностике, а также оказывает помощь пациентам в клинике более пяти лет. Оперирует взрослых и детей.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_16">
+<name>Вороненков Константин Андреевич</name>
+<first_name>Константин</first_name>
+<surname>Вороненков</surname>
+<patronymic>Андреевич</patronymic>
+<url>https://parada.clinic/specialists/voronenkov-konstantin-andreevich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/313/800_600_1/3139d71947dd40a87503e775dfce7be7.jpg</picture>
+<experience_years>6</experience_years>
+<description>Высококвалифицированный пластический хирург. Окончил СЗГМУ с отличием, проходил ординатуру на базе Военно-медицинской академии с курсом ожоговой хирургии. 
+Специализируется на эстетических операциях в области молочных желез, пластики живота (для коррекции фигуры, послеродового восстановления), блефаропластики любой сложности. Также занимается трансплантацией волос, антивозрастными операциями на лице – все виды лифтинга, в том числе глубокие подтяжки лица и шеи, а также эндоскопическими методиками омоложения.</description>
+<reviews_total_count>11</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_17">
+<name>Скворцов Кирилл Андреевич</name>
+<first_name>Кирилл</first_name>
+<surname>Скворцов</surname>
+<patronymic>Андреевич</patronymic>
+<url>https://parada.clinic/specialists/skvortsov-kirill-andreevich-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/8da/800_600_1/8daf8bba16d713cb0bcbd2ca8f49a0e1.JPG</picture>
+<experience_years>4</experience_years>
+<description>Высококвалифицированный пластический хирург. Окончил СЗГМУ с отличием, проходил ординатуру на базе Военно-медицинской академии с курсом ожоговой хирургии. 
+Специализируется на эстетических операциях в области молочных желез, пластики живота (для коррекции фигуры, послеродового восстановления), блефаропластики любой сложности. Также занимается трансплантацией волос, антивозрастными операциями на лице – все виды лифтинга, в том числе глубокие подтяжки лица и шеи, а также эндоскопическими методиками омоложения.</description>
+<reviews_total_count>3</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_18">
+<name>Сонн Александр Алексеевич</name>
+<first_name>Александр</first_name>
+<surname>Сонн</surname>
+<patronymic>Алексеевич</patronymic>
+<url>https://parada.clinic/specialists/sonn-aleksandr-alekseevich-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/06d/800_600_1/06d1fc336821715f6f7cee028784d877.jpeg</picture>
+<experience_years>8</experience_years>
+<description>Высококвалифицированный специалист в области оториноларингологии и пластической хирургии. Сочетает глубокие знания и опыт в области лечения заболеваний уха, горла, носа с профессиональной практикой в пластической хирургии, обеспечивая комплексный подход к лечению и восстановлению пациентов. Выполняет операции по риносептопластике и маммопластике.
+В 2017 году окончил Российский национальный исследовательский медицинский университет имени Н.И. Пирогова по специальности «лечебное дело».</description>
+<reviews_total_count>16</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_19">
+<name>Теммоев Раджаб Исмаилович</name>
+<first_name>Раджаб</first_name>
+<surname>Теммоев</surname>
+<patronymic>Исмаилович</patronymic>
+<url>https://parada.clinic/specialists/temmoev-radzhab-ismailovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/ad2/800_600_1/ad2040be59a3424d5232c103b56e149b.JPG</picture>
+<experience_years>8</experience_years>
+<description>Сердечно-сосудистый хирург, флеболог и врач УЗД. Окончил лечебный факультет НовГУ им. Ярослава Мудрого, затем прошёл ординатуру по сердечно-сосудистой хирургии в НМИЦ им. Алмазова и переподготовку по ультразвуковой диагностике и хирургии. Специализируется на диагностике и лечении заболеваний вен и артерий, варикозной болезни, тромбоза и тромбофлебита, трофических язв, лимфедем. Владеет всеми современными методами лечения варикозной болезни и её осложнении.</description>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_20">
+<name>Терентьев Иван Евгеньевич</name>
+<first_name>Иван</first_name>
+<surname>Терентьев</surname>
+<patronymic>Евгеньевич</patronymic>
+<url>https://parada.clinic/specialists/terentev-ivan-evgenevich-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/36a/800_600_1/36a305975fa038b643fe9ff4f7681ade.jpeg</picture>
+<experience_years>2</experience_years>
+<description>Пластический хирург, владеет современными методиками эстетической и реконструктивной хирургии. Специализируется на ринопластике, коррекции возрастных изменений лица, пластике век, коррекции лопоухости, увеличении и подтяжке груди, абдоминопластике и коррекции фигуры.
+Выпускник Кубанского государственного медицинского университета (2022). Прошел специализацию в НИИ скорой помощи им. Джанелидзе (2024).</description>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.9</grade>
+</review>
+</doctor>
+<doctor id="doctor_21">
+<name>Курушин Денис Вячеславович</name>
+<first_name>Денис</first_name>
+<surname>Курушин</surname>
+<patronymic>Вячеславович</patronymic>
+<url>https://parada.clinic/specialists/kurushin-denis-vyacheslavovich-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/24e/800_600_1/24e6a768ecf56c15e89d51b89e2ee942.jpg</picture>
+<experience_years>2</experience_years>
+<description>Пластический хирург. Окончил Военно-медицинскую академию им. С.М. Кирова, продолжает обучение на кафедре термических поражений и пластической хирургии. Проходил стажировки в городских центрах хирургической инфекции и экстренной медицины, работает экстренным хирургом в городском стационаре. Участвует в профильных конференциях и конгрессах по пластической хирургии.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.6</grade>
+</review>
+</doctor>
+<doctor id="doctor_22">
+<name>Рудоман Кристина Артуровна</name>
+<first_name>Кристина</first_name>
+<surname>Рудоман</surname>
+<patronymic>Артуровна</patronymic>
+<url>https://parada.clinic/specialists/rudoman-kristina-arturovna-/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/b14/800_600_1/b148c630de60ef5f9c864bd41e82d97f.jpg</picture>
+<experience_years>6</experience_years>
+<description>Квалифицированный пластический хирург и косметолог с современным комплексным подходом. Окончила Северо-Осетинскую медицинскую академию (2017), ординатуру по пластической хирургии Военно-медицинской академии имени С.М. Кирова (2019).
+Специализируется на омолаживающих операциях на лице с индивидуальным подходом, учитывая возрастные изменения пациента. А также маммопластике - проводит различные виды коррекции молочных желез с учетом анатомических особенностей и пожеланий пациенток.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.6</grade>
+</review>
+</doctor>
+<doctor id="doctor_23">
+<name> Павлов Валерий Викторович</name>
+<first_name>Павлов</first_name>
+<surname>Валерий</surname>
+<patronymic>Викторович</patronymic>
+<url>https://parada.clinic/specialists/pavlov-valeriy-viktorovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/e13/800_600_1/e137b606842bbd46a069426121a393f1.jpg</picture>
+<experience_years>31</experience_years>
+<description>Пластический хирург, кандидат медицинских наук с опытом работы более 30 лет. Окончил Первый Ленинградский медицинский институт им. акад. И.П. Павлова. Член Общества пластических, реконструктивных и эстетических хирургов (ОПРЭХ) и Международного общества эстетических пластических хирургов (ISAPS).</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.7</grade>
+</review>
+</doctor>
+<doctor id="doctor_24">
+<name> Болотин Илья Александрович</name>
+<first_name>Болотин</first_name>
+<surname>Илья</surname>
+<patronymic>Александрович</patronymic>
+<url>https://parada.clinic/specialists/bolotin-ilya-aleksandrovich/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/425/800_600_1/425de86ed81a84e181d87955d72610bc.jpg</picture>
+<experience_years>4</experience_years>
+<description>Пластический хирург и маммолог. Окончил Первый Санкт-Петербургский государственный медицинский университет им. акад. И.П. Павлова, прошёл интернатуру по хирургии и ординатуру по онкологии на базе НМИЦ онкологии им. Н.Н. Петрова. Повышал квалификацию в области современных методов лекарственной терапии злокачественных опухолей.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
+<doctor id="doctor_25">
+<name>Матусевич Екатерина Максимовна</name>
+<first_name>Матусевич</first_name>
+<surname>Екатерина</surname>
+<patronymic>Максимовна</patronymic>
+<url>https://parada.clinic/specialists/matusevich-ekaterina-maksimovna/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/0cd/800_600_1/0cd0b0a9f253a11e829c4193d91a5988.jpg</picture>
+<experience_years>25</experience_years>
+<description>Пластический хирург с опытом более 25 лет, сторонница минимально инвазивных методов. Специализируется на омоложении лица и шеи, блефаропластике, липосакции, липофилинге, абдоминопластике, коррекции груди и интимной пластике, а также исправлении врожденных дефектов. Окончила Первый СПбГМУ им. Павлова, прошла ординатуру по пластической хирургии, регулярно повышает квалификацию и участвует в российских и международных конгрессах.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
+<doctor id="doctor_26">
+<name>Золотых Венера Вазыховна</name>
+<first_name>Золотых</first_name>
+<surname>Венера</surname>
+<patronymic>Вазыховна</patronymic>
+<url>https://parada.clinic/specialists/zolotykh-venera-vazykhovna/?utm_source=yandexserp</url>
+<picture>https://parada.clinic/upload/resize_cache/iblock/e8c/800_600_1/e8c9e1321e603f73edff9d6b53569bc9.jpg</picture>
+<experience_years>15</experience_years>
+<description>Врач-реабилитолог с более чем 15-летним стажем. Занимается восстановлением и реабилитацией пациентов после травм, операций и заболеваний. Окончила Санкт-Петербургскую государственную медицинскую академию им. И.И. Мечникова в 2010 году. В настоящее время также работает в Городской поликлинике №51.</description>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
+</doctors>
+<clinics>
+<clinic id="clinic_1">
+<name>Парада</name>
+<city>Санкт-Петербург</city>
+<address>проспект Испытателей 2, корпус 2</address>
+<phone>+7(812)565-82-24</phone>
+<company_id>183487702649</company_id>
+</clinic>
+</clinics>
+<services>
+<service id="service_1">
+<name>Первичный приём: Пластический хирург</name>
+<description>Первичная консультация (Пластический хирург)</description>
+</service>
+<service id="service_2">
+<name>Первичный приём: Уролог</name>
+<description>Первичная консультация (Уролог)</description>
+</service>
+<service id="service_3">
+<name>Первичный приём: Хирург-травматолог</name>
+<description>Первичная консультация (Хирург-травматолог)</description>
+</service>
+<service id="service_4">
+<name>Первичный приём: Травматолог</name>
+<description>Первичная консультация (Травматолог)</description>
+</service>
+<service id="service_5">
+<name>Первичный приём: Врач-хирург</name>
+<description>Первичная консультация (Врач-хирург)</description>
+</service>
+<service id="service_6">
+<name>Первичный приём: Врач терапевт</name>
+<description>Первичная консультация (Врач терапевт)</description>
+</service>
+<service id="service_7">
+<name>Первичный приём: Гинеколог-хирург</name>
+<description>Первичная консультация (Гинеколог-хирург)</description>
+</service>
+<service id="service_8">
+<name>Первичный приём: Флеболог-хирург</name>
+<description>Первичная консультация (Флеболог-хирург)</description>
+</service>
+<service id="service_8">
+<name>Первичный приём: Врач реабилитолог</name>
+<description>Первичная консультация (Врач реабилитолог)</description>
+</service>
+</services>
+<offers>
+<offer id="offer_1">
+<url>https://parada.clinic/specialists/usungvan-maksim-vyacheslavovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_1">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_2">
+<url>https://parada.clinic/specialists/zolotykh-valeriy-gennadevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_2">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_3">
+<url>https://parada.clinic/specialists/romanova-tatyana-kirillovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_3">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_4">
+<url>https://parada.clinic/specialists/stepanova-natalya-yurevna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_4">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_5">
+<url>https://parada.clinic/specialists/elsukov-sergey-sergeevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>0</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_5">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_6">
+<url>https://parada.clinic/specialists/dubko-aleksandr-igorevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_6">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_7">
+<url>https://parada.clinic/specialists/agagyulov-murad-uruzhbekovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2600</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_7">
+<speciality>Уролог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_8">
+<url>https://parada.clinic/specialists/kim-roman-vyacheslavovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_8">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_9">
+<url>https://parada.clinic/specialists/dokolin-sergey-yurevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_3"/>
+<clinic id="clinic_1">
+<doctor id="doctor_9">
+<speciality>Хирург-травматолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_10">
+<url>https://parada.clinic/specialists/kuzmina-vladislava-igorevna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_10">
+<speciality>Травматолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_11">
+<url>https://parada.clinic/specialists/alkema-ruslan-aleksandrovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_11">
+<speciality>Врач-хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_12">
+<url>https://parada.clinic/specialists/zharkov-aleksey-petrovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2600</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_12">
+<speciality>Врач терапевт</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_13">
+<url>https://parada.clinic/specialists/karpeev-stanislav-anatolevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_13">
+<speciality>Гинеколог-хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_14">
+<url>https://parada.clinic/specialists/bugaeva-lala-ismailovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2600</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_14">
+<speciality>Врач терапевт</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_15">
+<url>https://parada.clinic/specialists/kovzikov-aleksandr-borisovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_15">
+<speciality>Травматолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_16">
+<url>https://parada.clinic/specialists/voronenkov-konstantin-andreevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_16">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_17">
+<url>https://parada.clinic/specialists/skvortsov-kirill-andreevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_17">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_18">
+<url>https://parada.clinic/specialists/sonn-aleksandr-alekseevich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_18">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_19">
+<url>https://parada.clinic/specialists/temmoev-radzhab-ismailovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_19">
+<speciality>Флеболог-хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_20">
+<url>https://parada.clinic/specialists/terentev-ivan-evgenevich-/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_20">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_21">
+<url>https://parada.clinic/specialists/kurushin-denis-vyacheslavovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_21">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_22">
+<url>https://parada.clinic/specialists/rudoman-kristina-arturovna-/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_22">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_23">
+<url>https://parada.clinic/specialists/pavlov-valeriy-viktorovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_23">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_24">
+<url>https://parada.clinic/specialists/bolotin-ilya-aleksandrovich/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_24">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_25">
+<url>https://parada.clinic/specialists/matusevich-ekaterina-maksimovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_25">
+<speciality>Пластический хирург</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_26">
+<url>https://parada.clinic/specialists/zolotykh-venera-vazykhovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_9"/>
+<clinic id="clinic_1">
+<doctor id="doctor_26">
+<speciality>Врач реабилитолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+</offers>
+</shop>
