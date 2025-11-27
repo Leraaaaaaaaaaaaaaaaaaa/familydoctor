@@ -509,6 +509,20 @@
 <grade>4.8</grade>
 </review>
 </doctor>
+<doctor id="doctor_38">
+<name>Довгалова Анна Григорьевна</name>
+<first_name>Анна</first_name>
+<surname>Довгалова</surname>
+<patronymic>Григорьевна</patronymic>
+<description/>
+<url>https://familydoctor.spb.ru/staff/mammologiya/dovgalova-anna-grigorevna/?utm_source=yandexserp</url>
+<picture>https://optim.tildacdn.com/tild3939-3965-4963-a332-313839316261/-/resize/460x/-/format/webp/photo.jpg.webp</picture>
+<experience_years>2</experience_years>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
 <doctor id="doctor_39">
 <name>Чугреева Ольга Николаевна</name>
 <first_name>Ольга</first_name>
@@ -1312,6 +1326,23 @@
 <clinic id="clinic_1">
 <doctor id="doctor_40">
 <speciality>Терапевт</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+  <offer id="offer_41">
+<url>https://familydoctor.spb.ru/staff/mammologiya/dovgalova-anna-grigorevna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_38">
+<speciality>Маммолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
