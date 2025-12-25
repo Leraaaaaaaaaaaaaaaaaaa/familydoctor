@@ -1234,7 +1234,7 @@
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
 <price>
-<base_price>3000</base_price>
+<base_price>5000</base_price>
 <currency>RUR</currency>
 </price>
 <service id="service_20"/>
