@@ -398,14 +398,14 @@
 </review>
 </doctor>
 <doctor id="doctor_29">
-<name>Емельянова Оксана Геннадьевна</name>
-<first_name>Оксана</first_name>
-<surname>Емельянова</surname>
+<name>Великоречина Марина Геннадьевна</name>
+<first_name>Марина</first_name>
+<surname>Великоречина</surname>
 <patronymic>Геннадьевна</patronymic>
-<description>Врач-невролог с опытом работы более 20 лет, принимает детей с рождения до 18 лет. Специализируется на наблюдении и лечении новорождённых, а также на неврологических заболеваниях детского возраста. Окончила Курский государственный медицинский университет, прошла обучение и повышение квалификации по невропатологии, медицинской реабилитации и неврологии раннего детского возраста. Работает в детском поликлиническом отделении №77 в Санкт-Петербурге и ведёт преподавательскую деятельность. Член ассоциации общества неврологов Санкт-Петербурга.</description>
-<url>https://familydoctor.spb.ru/staff/pediatriya/emelyanova-oksana-gennadevna/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild6365-3638-4361-a531-613637303666/so3zoeykaa72dvctirva.jpg</picture>
-<experience_years>27</experience_years>
+<description>Врач ультразвуковой диагностики со стажем 10 лет. Принимает взрослых и детей с 5 лет. Проводит широкий спектр УЗИ, включая исследования внутренних органов, сосудов, щитовидной и молочных желёз.</description>
+<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/velikorechina-marina-gennadevna/?utm_source=yandexserp</url>
+<picture>https://optim.tildacdn.com/tild3261-3764-4666-b833-373539383561/-/resize/460x/-/format/webp/Gemini_Generated_Ima.jpg.webp</picture>
+<experience_years>10</experience_years>
 <reviews_total_count>14</reviews_total_count>
 <review>
 <grade>4.8</grade>
@@ -681,6 +681,11 @@
 <service id="service_24">
 <name>Первичный приём: Эндокринолог</name>
 <description>Первичная консультация (Эндокринолог)</description>
+<internal_id>24</internal_id>
+</service>
+<service id="service_25">
+<name>Приём: Врач ультразвуковой диагностики</name>
+<description>Консультация врача ультразвуковой диагностики</description>
 <internal_id>24</internal_id>
 </service>
 </services>
@@ -1162,17 +1167,17 @@
 </clinic>
 </offer>
 <offer id="offer_29">
-<url>https://familydoctor.spb.ru/staff/pediatriya/emelyanova-oksana-gennadevna/?utm_source=yandexserp</url>
+<url>https://familydoctor.spb.ru/staff/otdelenie-diagnostiki/velikorechina-marina-gennadevna/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
 <price>
-<base_price>2000</base_price>
+<base_price>1000</base_price>
 <currency>RUR</currency>
 </price>
-<service id="service_13"/>
+<service id="service_25"/>
 <clinic id="clinic_1">
 <doctor id="doctor_29">
-<speciality>Невролог</speciality>
+<speciality>Врач ультразвуковой диагностики</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
