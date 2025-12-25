@@ -551,6 +551,20 @@
 <grade>4.7</grade>
 </review>
 </doctor>
+<doctor id="doctor_41">
+<name>Ксения Денисовна Лебедева</name>
+<first_name>Ксения</first_name>
+<surname>Лебедева</surname>
+<patronymic>Денисовна</patronymic>
+<description>врач-офтальмолог со стажем более 3 лет. Принимает взрослых пациентов. Занимается диагностикой и лечением заболеваний органа зрения, включая глаукому, катаракту, патологии век и слёзных путей, а также глазные осложнения при системных заболеваниях. Владеет современными методами диагностики, подбора очковой коррекции и инъекционного лечения.</description>
+<url>https://familydoctor.spb.ru/staff/oftalmologiya/lebedeva-kseniya-denisovna/?utm_source=yandexserp</url>
+<picture>https://optim.tildacdn.com/tild3535-3436-4261-b431-373835316134/-/resize/460x/-/format/webp/Gemini_Generated_Ima.jpg.webp</picture>
+<experience_years>3</experience_years>
+<reviews_total_count>8</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
 </doctors>
 <clinics>
 <clinic id="clinic_1">
@@ -681,11 +695,6 @@
 <service id="service_24">
 <name>Первичный приём: Эндокринолог</name>
 <description>Первичная консультация (Эндокринолог)</description>
-<internal_id>24</internal_id>
-</service>
-<service id="service_25">
-<name>Приём: Врач ультразвуковой диагностики</name>
-<description>Консультация врача ультразвуковой диагностики</description>
 <internal_id>24</internal_id>
 </service>
 </services>
@@ -1174,10 +1183,10 @@
 <base_price>1000</base_price>
 <currency>RUR</currency>
 </price>
-<service id="service_25"/>
+<service id="service_3"/>
 <clinic id="clinic_1">
 <doctor id="doctor_29">
-<speciality>Врач ультразвуковой диагностики</speciality>
+<speciality>Врач Узи</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -1348,6 +1357,23 @@
 <clinic id="clinic_1">
 <doctor id="doctor_38">
 <speciality>Маммолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+    <offer id="offer_42">
+<url>https://familydoctor.spb.ru/staff/oftalmologiya/lebedeva-kseniya-denisovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>1500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_22"/>
+<clinic id="clinic_1">
+<doctor id="doctor_41">
+<speciality>Офтальмолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
