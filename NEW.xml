@@ -362,7 +362,7 @@
 <patronymic>Сергеевич</patronymic>
 <description>Врач-оториноларинголог с опытом лечения взрослых и детей. Специализируется на заболеваниях уха, горла и носа, включая отиты, синуситы, тонзиллиты, ларингиты, а также нарушениях слуха и равновесия. Проводит лечебно-диагностические манипуляции и наблюдает пациентов после ЛОР-операций. </description>
 <url>https://familydoctor.spb.ru/staff/otolaringologiya/slobodyanyuk-ilya-sergeevich/?utm_source=yandexserp</url>
-<picture>https://optim.tildacdn.com/tild6536-6238-4464-a531-373934636663/-/format/webp/jxgkjlzzqvja5s8ilrgl.jpg.webp</picture>
+<picture>https://static.tildacdn.com/tild6536-6238-4464-a531-373934636663/jxgkjlzzqvja5s8ilrgl.jpg</picture>
 <experience_years>12</experience_years>
 <reviews_total_count>19</reviews_total_count>
 <review>
@@ -446,7 +446,7 @@
 <patronymic>Владимировна</patronymic>
 <description>Врач-кардиолог с опытом в ведении пациентов после аортокоронарного шунтирования и стентирования коронарных артерий. Специализируется на диагностике и лечении заболеваний перикарда, миокарда, аритмий, гипертонии, инфаркта миокарда, ишемической болезни сердца, сердечной недостаточности и других кардиологических заболеваний. Окончила Благовещенский Медицинский Институт, прошла ординатуру по терапии в СПб МАПО и специализацию в кардиологии. Регулярно повышает квалификацию в области кардиологии и ревматологии. Ведет педагогическую деятельность. </description>
 <url>https://familydoctor.spb.ru/staff/revmatologi/olga-vladimirovna-pobegay/?utm_source=yandexserp</url>
-<picture>https://optim.tildacdn.com/tild3166-6163-4561-b535-323537393836/-/format/webp/2tpdyh00l4rcibuywkox.jpg.webp</picture>
+<picture>https://static.tildacdn.com/tild3166-6163-4561-b535-323537393836/2tpdyh00l4rcibuywkox.jpg</picture>
 <experience_years>25</experience_years>
 <reviews_total_count>17</reviews_total_count>
 <review>
@@ -501,7 +501,7 @@
 <surname>Черненко</surname>
 <patronymic>Андреевна</patronymic>
 <description>Руководитель центра снижения веса, врач-терапевт, нутрициолог, липидолог (специалист по нарушениям липидного обмена) и ассистент кафедры факультетской терапии с курсом эндокринологии, кардиологии с клиникой им. акад. Г. Ф. Ланга</description>
-<url>https://https://familydoctor.spb.ru/staff/tsentr-snizheniya-vesa/chernenko-elena-andreevna/?utm_source=yandexserp</url>
+<url>https://familydoctor.spb.ru/staff/tsentr-snizheniya-vesa/chernenko-elena-andreevna/?utm_source=yandexserp</url>
 <picture>https://optim.tildacdn.com/tild3834-6334-4537-b133-373662666265/-/resize/460x/-/format/webp/Gemini_Generated_Ima.jpg.webp</picture>
 <experience_years>15</experience_years>
 <reviews_total_count>5</reviews_total_count>
@@ -1291,7 +1291,7 @@
 <service id="service_9"/>
 <clinic id="clinic_1">
 <doctor id="doctor_37">
-<speciality>Пульмонолог</speciality>
+<speciality>Диаетолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
