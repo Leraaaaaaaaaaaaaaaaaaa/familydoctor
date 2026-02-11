@@ -523,20 +523,6 @@
 <grade>4.8</grade>
 </review>
 </doctor>
-<doctor id="doctor_39">
-<name>Чугреева Ольга Николаевна</name>
-<first_name>Ольга</first_name>
-<surname>Чугреева</surname>
-<patronymic>Николаевна</patronymic>
-<description>Врач-педиатр, специализирующийся на уходе за новорожденными и детьми до 14 лет, в том числе на выхаживании недоношенных детей и детей с перинатальными проблемами. Осуществляет выдачу справок для посещения школы, бассейна и кружков, а также оформляет карты в детский сад (форма У-026). Совмещала практическую деятельность с преподаванием в Институте медицинского образования в центре им. В.А. Алмазова.</description>
-<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild6639-3061-4733-b934-623639363133/unnamed.jpg</picture>
-<experience_years>35</experience_years>
-<reviews_total_count>8</reviews_total_count>
-<review>
-<grade>4.8</grade>
-</review>
-</doctor>
 <doctor id="doctor_41">
 <name>Ксения Денисовна Лебедева</name>
 <first_name>Ксения</first_name>
@@ -1292,23 +1278,6 @@
 <clinic id="clinic_1">
 <doctor id="doctor_37">
 <speciality>Диаетолог</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
-<offer id="offer_39">
-<url>https://familydoctor.spb.ru/staff/pediatriya/chugreeva-olga-nikolayevna/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>1700</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_17"/>
-<clinic id="clinic_1">
-<doctor id="doctor_39">
-<speciality>Педиатр</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
