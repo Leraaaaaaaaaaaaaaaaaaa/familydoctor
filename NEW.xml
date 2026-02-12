@@ -481,6 +481,20 @@
 <grade>4.8</grade>
 </review>
 </doctor>
+<doctor id="doctor_35">
+<name>Бугаева Лала Исмаиловна</name>
+<first_name>Лала</first_name>
+<surname>Бугаева</surname>
+<patronymic>Исмаиловна</patronymic>
+<description>Врач-терапевт (кардиологический профиль): консультирует и ведёт пациентов с заболеваниями сердца и сосудов, дыхательной, пищеварительной и мочевыделительной систем, суставов и позвоночника, а также после операций и травм. Проводит ЭКГ с расшифровкой, подбирает лечение с учётом возраста и сопутствующих заболеваний, оформляет экспертизу временной нетрудоспособности.</description>
+<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/bugayeva-lala-ismailovna/?utm_source=yandexserp</url>
+<picture>https://optim.tildacdn.com/tild3466-6166-4638-a462-346564326264/-/resize/460x/-/format/webp/___.jpg.webp</picture>
+<experience_years>27</experience_years>
+<reviews_total_count>14</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
 <doctor id="doctor_36">
 <name>Назаров Иван Александрович</name>
 <first_name>Иван</first_name>
@@ -1244,6 +1258,23 @@
 <clinic id="clinic_1">
 <doctor id="doctor_34">
 <speciality>Дерматолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_35">
+<url>https://familydoctor.spb.ru/staff/vrachi-obshchey-praktiki/bugayeva-lala-ismailovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_35">
+<speciality>Терапевт</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
