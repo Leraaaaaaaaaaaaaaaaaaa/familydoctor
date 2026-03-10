@@ -5,20 +5,6 @@
 <picture>https://static.tildacdn.com/tild6339-6465-4064-b566-383231643666/logo.png</picture>
 <email>info@familydoctor.spb.ru</email>
 <doctors>
-<doctor id="doctor_1">
-<name>Романова Ирина Николаевна</name>
-<first_name>Ирина</first_name>
-<surname>Романова</surname>
-<patronymic>Николаевна</patronymic>
-<description>Акушер-гинеколог, маммолог, врач УЗИ и хирург с высшей категорией и опытом работы более 27 лет. Специализируется на ведении беременности, лечении гинекологических и эндокринных заболеваний, восстановлении репродуктивного здоровья, выполняет амбулаторные операции, УЗИ и кольпоскопию, а также проводит эстетические и восстановительные процедуры.</description>
-<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/irina-nikolaevna-romanova/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild3338-3963-4663-a162-656463366339/d7nv1qzzjwzik4rfkzpg.jpg</picture>
-<experience_years>27</experience_years>
-<reviews_total_count>24</reviews_total_count>
-<review>
-<grade>4.7</grade>
-</review>
-</doctor>
 <doctor id="doctor_2">
 <name>Батько Андрей Борисович</name>
 <first_name>Андрей</first_name>
@@ -685,23 +671,6 @@
 </service>
 </services>
 <offers>
-<offer id="offer_1">
-<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/irina-nikolaevna-romanova/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>3000</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_1"/>
-<clinic id="clinic_1">
-<doctor id="doctor_1">
-<speciality>Акушер-гинеколог</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
 <offer id="offer_2">
 <url>https://familydoctor.spb.ru/staff/andrologiya/andrey-borisovich-batko/?utm_source=yandexserp</url>
 <appointment>true</appointment>
