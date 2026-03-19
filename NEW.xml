@@ -89,20 +89,6 @@
 <grade>4.5</grade>
 </review>
 </doctor>
-<doctor id="doctor_8">
-<name>Дворников Виктор Викторович</name>
-<first_name>Виктор</first_name>
-<surname>Дворников</surname>
-<patronymic>Викторович</patronymic>
-<description>Кардиолог-аритмолог высшей категории и кандидат медицинских наук с более чем 20-летним стажем. Специализируется на лечении нарушений ритма сердца. Окончил Санкт-Петербургский государственный педиатрический медицинский университет и прошёл ординатуру по кардиологии.</description>
-<url>https://familydoctor.spb.ru/staff/kardiologiya/dvornikov-viktor-viktorovich/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild6537-3731-4930-a265-303433626339/3rscc3m9ezj4g2aevisx.jpg</picture>
-<experience_years>20</experience_years>
-<reviews_total_count>12</reviews_total_count>
-<review>
-<grade>4.6</grade>
-</review>
-</doctor>
 <doctor id="doctor_9">
 <name>Крылова Юлия Сергеевна</name>
 <first_name>Юлия</first_name>
@@ -767,23 +753,6 @@
 <service id="service_7"/>
 <clinic id="clinic_1">
 <doctor id="doctor_7">
-<speciality>Кардиолог</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
-<offer id="offer_8">
-<url>https://familydoctor.spb.ru/staff/kardiologiya/dvornikov-viktor-viktorovich/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>3000</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_7"/>
-<clinic id="clinic_1">
-<doctor id="doctor_8">
 <speciality>Кардиолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
