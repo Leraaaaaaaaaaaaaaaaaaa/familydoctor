@@ -528,10 +528,24 @@
 <first_name>Анна</first_name>
 <surname>Довгалова</surname>
 <patronymic>Григорьевна</patronymic>
-<description/>
+<description>Маммолог, онколог и хирург. Специализируется на диагностике, лечении и профилактике заболеваний молочной железы, а также выполняет хирургические манипуляции и удаление доброкачественных образований.</description>
 <url>https://familydoctor.spb.ru/staff/mammologiya/dovgalova-anna-grigorevna/?utm_source=yandexserp</url>
 <picture>https://static.tildacdn.com/tild3939-3965-4963-a332-313839316261/photo.jpg</picture>
 <experience_years>2</experience_years>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
+  <doctor id="doctor_39">
+<name>Вихнина Софья Модестовна</name>
+<first_name>Софья</first_name>
+<surname>Вихнина</surname>
+<patronymic>Модестовна</patronymic>
+<description>Врач-оториноларинголог первой категории, кандидат медицинских наук, стаж 14 лет. Лечит острые и хронические заболевания верхних дыхательных путей. Принимает взрослых и детей с 1 года. Регулярно повышает квалификацию, имеет опыт работы в ведущих медицинских учреждениях Санкт-Петербурга.</description>
+<url>https://familydoctor.spb.ru/staff/otolaringologiya/vikhnina-sofya-modestovna/?utm_source=yandexserp</url>
+<picture>https://static.tildacdn.com/tild6433-6363-4365-b639-386566313939/noroot.png</picture>
+<experience_years>14</experience_years>
 <reviews_total_count>12</reviews_total_count>
 <review>
 <grade>4.8</grade>
@@ -1310,6 +1324,23 @@
 <clinic id="clinic_1">
 <doctor id="doctor_37">
 <speciality>Диаетолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+  <offer id="offer_38">
+<url>https://familydoctor.spb.ru/staff/otolaringologiya/vikhnina-sofya-modestovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_16"/>
+<clinic id="clinic_1">
+<doctor id="doctor_29">
+<speciality>Отоларинголог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
