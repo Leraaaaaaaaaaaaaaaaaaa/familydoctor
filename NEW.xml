@@ -5,6 +5,20 @@
 <picture>https://static.tildacdn.com/tild6339-6465-4064-b566-383231643666/logo.png</picture>
 <email>info@familydoctor.spb.ru</email>
 <doctors>
+<doctor id="doctor_1">
+<name>Самсонова Елена Александровна</name>
+<first_name>Елена</first_name>
+<surname>Самсонова</surname>
+<patronymic>Александровна</patronymic>
+<description>Акушер-гинеколог, кандидат медицинских наук, с опытом работы 33 года. Специализируется на женском здоровье, ведении беременности и УЗИ малого таза. Принимает взрослых и детей с 16 лет. Регулярно повышает квалификацию, имеет опыт работы в России и США.</description>
+<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/samsonova-elena-aleksandrovna/?utm_source=yandexserp</url>
+<picture>https://static.tildacdn.com/tild6161-6634-4532-b037-623737623332/____.png</picture>
+<experience_years>33</experience_years>
+<reviews_total_count>23</reviews_total_count>
+<review>
+<grade>4.7</grade>
+</review>
+</doctor>
 <doctor id="doctor_2">
 <name>Батько Андрей Борисович</name>
 <first_name>Андрей</first_name>
@@ -682,7 +696,7 @@
 <service id="service_4"/>
 <clinic id="clinic_9">
 <doctor id="doctor_8">
-<speciality>Уролог</speciality>
+<speciality>Диетолог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
@@ -785,6 +799,24 @@
 <clinic id="clinic_1">
 <doctor id="doctor_7">
 <speciality>Кардиолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+  <offer id="offer_8">
+<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/samsonova-elena-aleksandrovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_1">
+<speciality>Акушер-гинеколог
+</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
