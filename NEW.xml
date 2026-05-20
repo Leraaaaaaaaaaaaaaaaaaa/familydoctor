@@ -89,6 +89,20 @@
 <grade>4.5</grade>
 </review>
 </doctor>
+<doctor id="doctor_8">
+<name>Земляницына Анастасия Михайловна</name>
+<first_name>Анастасия</first_name>
+<surname>Земляницына</surname>
+<patronymic>Михайловна</patronymic>
+<description>Врач-терапевт с опытом с 2014 года. Специализируется на лечении заболеваний внутренних органов, помогает при лишнем весе, подборе питания и формировании здоровых привычек. Имеет дополнительную подготовку по терапии и диетологии.</description>
+<url>https://familydoctor.spb.ru/staff/tsentr-snizheniya-vesa/zemlyanitsyna-anastasiya-mikhaylovna/?utm_source=yandexserp</url>
+<picture>https://static.tildacdn.com/tild3862-6666-4238-a666-353933646661/Gemini_Generated_Ima.jpg</picture>
+<experience_years>12</experience_years>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
 <doctor id="doctor_9">
 <name>Крылова Юлия Сергеевна</name>
 <first_name>Юлия</first_name>
@@ -403,7 +417,7 @@
 <surname>Кушнир</surname>
 <patronymic>Николаевна</patronymic>
 <description>Врач-психиатр и психотерапевт, специализируется на лечении психотических расстройств, таких как шизофрения и депрессия, а также на психотерапии тревожных и невротических расстройств у взрослых. Работает с пожилыми пациентами, включая лечение болезни Альцгеймера и геронтопсихиатрические расстройства. Регулярно повышает квалификацию по психотерапии, психиатрии и фармакологии. С 2024 года является заведующим лечебно-диагностическим отделением в психиатрической больнице Святого Николая Чудотворца. Член Санкт-Петербургского общества психиатров и награждена Почетной грамотой Минздравсоцразвития РФ.</description>
-<url>https://familydoctor.spb.ru/staff/pmikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
+<url>https://familydoctor.spb.ru/staff/psikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
 <picture>https://static.tildacdn.com/tild3733-3962-4737-b330-623430343466/qs7lsdp1g695elm2z5mm.jpg</picture>
 <experience_years>28</experience_years>
 <reviews_total_count>17</reviews_total_count>
@@ -657,7 +671,24 @@
 </service>
 </services>
 <offers>
-<offer id="offer_2">
+<offer id="offer_1">
+<url>https://familydoctor.spb.ru/staff/tsentr-snizheniya-vesa/zemlyanitsyna-anastasiya-mikhaylovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_9">
+<doctor id="doctor_8">
+<speciality>Уролог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+  <offer id="offer_2">
 <url>https://familydoctor.spb.ru/staff/andrologiya/andrey-borisovich-batko/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
@@ -1134,7 +1165,7 @@
 </clinic>
 </offer>
 <offer id="offer_31">
-<url>https://familydoctor.spb.ru/staff/pmikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
+<url>https://familydoctor.spb.ru/staff/psikhologi/olga-nikolaevna-kushnir/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
 <price>
