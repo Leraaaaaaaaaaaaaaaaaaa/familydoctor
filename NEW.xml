@@ -708,7 +708,7 @@
 <currency>RUR</currency>
 </price>
 <service id="service_4"/>
-<clinic id="clinic_9">
+<clinic id="clinic_1">
 <doctor id="doctor_8">
 <speciality>Диетолог</speciality>
 <adult_appointment>true</adult_appointment>
