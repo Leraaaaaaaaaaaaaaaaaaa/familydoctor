@@ -495,20 +495,6 @@
 <grade>4.8</grade>
 </review>
 </doctor>
-<doctor id="doctor_36">
-<name>Назаров Иван Александрович</name>
-<first_name>Иван</first_name>
-<surname>Назаров</surname>
-<patronymic>Александрович</patronymic>
-<description>Врач общей практики (семейный врач) с опытом работы в различных областях медицины, включая ЛОР-заболевания, заболевания ЖКТ, инфекционные болезни, болезни бронхо-легочной системы, опорно-двигательного аппарата и сердечно-сосудистой системы. Специализируется на проведении осмотров, регистрации ЭКГ и оформлении медицинских справок, в том числе для занятий спортом, посещения бассейна и санаторно-курортного лечения.</description>
-<url>https://familydoctor.spb.ru/staff/nazarov-ivan-aleksandrovich/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild3830-6166-4562-b261-393463396362/photo_2024-12-04_125.jpeg</picture>
-<experience_years>4</experience_years>
-<reviews_total_count>9</reviews_total_count>
-<review>
-<grade>4.8</grade>
-</review>
-</doctor>
 <doctor id="doctor_37">
 <name>Черненко Елена Андреевна</name>
 <first_name>Елена</first_name>
@@ -1289,23 +1275,6 @@
 <service id="service_6"/>
 <clinic id="clinic_1">
 <doctor id="doctor_35">
-<speciality>Терапевт</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
-<offer id="offer_36">
-<url>https://familydoctor.spb.ru/staff/nazarov-ivan-aleksandrovich/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>1800</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_6"/>
-<clinic id="clinic_1">
-<doctor id="doctor_36">
 <speciality>Терапевт</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
