@@ -1,0 +1,3562 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<shop version="2.0" date="2025-08-21 12:10">
+<name>ГБУЗ №2 Св. Марии Магдалины</name>
+<company>Детская городская больница №2 Святой Марии Магдалины</company>
+<url>https://mm2.ru/</url>
+<picture>https://mm2.ru/netcat_files/11/8/logo.svg</picture>
+<email>Marketing@mm2.ru</email>
+<doctors>
+<doctor id="doctor_1">
+<name>Нурмагомедов Магомед Нурмагомедович</name>
+<url>https://mm2.ru/doctors/nurmagomedov-magomed-nurmagomedovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9OdXJtYWdvbWVkb3YxLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Магомед Нурмагомедович проводит полный объем амбулаторно-поликлинической хирургии, включая оперативное лечение при заболеваниях желчного пузыря, грыжах различной локализации, и малых проктологических операций. Занимается лечением других болезней, которые могут потребовать хирургического вмешательства.</description>
+<reviews_total_count>5</reviews_total_count>
+</doctor>
+<doctor id="doctor_2">
+<name>Витовщик Михаил Григорьевич</name>
+<url>https://mm2.ru/doctors/vitovschik-mihail-grigorevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9WaXRvdnNjaGlrX25vdm9lMy5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>14</experience_years>
+<description>Доктор консультирует детей, оказывает хирургическую помощь в условиях амбулатории: вскрытие гнойников, удаление фурункулов, наложение повязок, смена швов и прочее. Специализируется в лечении хирургических патологий у детей всех возрастов и хирургическом лечение врождённых пороков развития детей.</description>
+<reviews_total_count>9</reviews_total_count>
+</doctor>
+<doctor id="doctor_3">
+<name>Зернюк Иван Юрьевич</name>
+<url>https://mm2.ru/doctors/zernyuk-ivan-yurevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aZXJueXVrMTEuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>8</experience_years>
+<description>Зернюк Иван Юрьевич детский врач-хирург, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение гнойной хирургии</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_4">
+<name>Зыкова Ольга Александровна</name>
+<url>https://mm2.ru/doctors/zykova-olga-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aeWtvdmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>14</experience_years>
+<description>Опытный детский стоматолог, специализирующийся на лечении зубов и уходе за полостью рта у детей от 0 до 17 лет. Предлагает полный спектр стоматологических услуг, включая: профессиональную гигиену полости рта, лечение кариеса и его осложнений, удаление молочных зубов, восстановление молочных зубов коронками, проведение реминерализации, лечение и удаление зубов детям под наркозом.</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_5">
+<name>Абмайкин Михаил Юрьевич</name>
+<url>https://mm2.ru/doctors/abmaykin-mihail-yurevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9BYm1heWtpbjIuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>10</experience_years>
+<description>Абмайкин Михаил Юрьевич врач-рентгенолог, медицинский стаж 10 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики.</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_6">
+<name>Качанова Полина Павловна</name>
+<url>https://mm2.ru/doctors/kachanova-polina-pavlovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYWNoYW5vdmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Полина Павловна специализируется на лечении различных форм кариеса у детей любого возраста, в том числе под наркозом, прекрасно находит подход к маленьким пациентам.</description>
+<reviews_total_count>8</reviews_total_count>
+</doctor>
+<doctor id="doctor_7">
+<name>Тристанова Наталья Викторовна</name>
+<url>https://mm2.ru/doctors/tristanova-natalya-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9UcmlzdGFub3ZhX25vdnl5X3N6aGF0eXkucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>24</experience_years>
+<description>Основным направлением в работе Натальи Викторовны является оказание экстренной и плановой хирургический помощи детям. Доктор наблюдает детей любого возраста в амбулаторных и стационарных условиях, ведет консультативный прием.</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_8">
+<name>Чиков Леонид Георгиевич</name>
+<url>https://mm2.ru/doctors/chikov-leonid-georgievich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9DaGlrb3ZfMi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>22</experience_years>
+<description>В своей работе доктор использует актуальные методы лечения кариеса и его осложненных форм, владеет всеми передовыми методиками лечения зубов у детей любого возраста. Активно практикует лечение детей (в том числе детей со сложным поведением) в состоянии медикаментозного сна.</description>
+<reviews_total_count>15</reviews_total_count>
+</doctor>
+<doctor id="doctor_9">
+<name>Бойко Андрей Владимирович</name>
+<url>https://mm2.ru/doctors/boyko-andrey-vladimirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Cb3lrb18zLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>26</experience_years>
+<description>Доктор имеет большой опыт неотложной и плановой помощи по профилю хирургии и урологии в лечении пороков развития, заболеваний у детей и новорожденных.</description>
+<reviews_total_count>17</reviews_total_count>
+</doctor>
+<doctor id="doctor_10">
+<name>Исламов Феруз Олимович</name>
+<url>https://mm2.ru/doctors/islamov-feruz-olimovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9pc2xhbW92X3NheXQuanBnLjE3NzY3NjE5NTc_q80.webp</picture>
+<experience_years>10</experience_years>
+<description>Феруз Олимович ведёт приём детей любогово возраста по профилю детской урологии-андрологии, проводит консервативное и хирургическое лечение мочекаменной болезни, цистита в острой и хронической форме, инфекционных заболеваний мочеполовой системы, воспалительных заболеваний почек и мочевого пузыря, варикоцеле.</description>
+<reviews_total_count>9</reviews_total_count>
+</doctor>
+<doctor id="doctor_11">
+<name>Мансурова Светлана Равильевна</name>
+<url>https://mm2.ru/doctors/mansurova-svetlana-ravilevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NYW5zdXJvdmFfbm92eXkucG5nLjE3NTgwOTg3MzE_q80.webp</picture>
+<experience_years>33</experience_years>
+<description>Светлана Равильевна ведёт консультативно-диагностический прием, проводит консервативное и хирургическое лечение ЛОР-органов у детей от 0 до 17 лет. Является постоянным членом Общества оториноларингологов России.</description>
+<reviews_total_count>9</reviews_total_count>
+</doctor>
+<doctor id="doctor_12">
+<name>Поляков Петр Николаевич</name>
+<url>https://mm2.ru/doctors/polyakov-petr-nikolaevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Qb2x5YWtvdl9ub3Z5eV9zemhhdHl5LnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Пётр Николаевич занимается лечением различных инфекций и заболеваний репродуктивной, а также мочеполовой системы у детей от 0 до 17 лет. Проводит все необходимые обследования при заболеваниях мочевыводящих путей и аномалиях половых органов</description>
+<reviews_total_count>15</reviews_total_count>
+</doctor>
+<doctor id="doctor_13">
+<name>Рожкова Анастасия Андреевна</name>
+<url>https://mm2.ru/doctors/rozhkova-anastasiya-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Sb3poa292YV9ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Анастасия Андреевна специализируется на амбулаторной хирургии, оказывая как экстренную, так и плановую помощь. В её компетенцию входит комплексное лечение гнойных заболеваний мягких тканей, определение показаний к оперативному вмешательству при патологиях брюшной полости и их проведение. Также она выполняет удаление различных новообразований кожи, подкожной клетчатки и мягких тканей, уделяя особое внимание эстетическому результату. Отдельным направлением её работы является хирургическая обработка и ведение сложных ран, трофических язв и пролежней.</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_14">
+<name>Щербина Екатерина Николаевна</name>
+<url>https://mm2.ru/doctors/scherbina-ekaterina-nikolaevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TY2hlcmJpbmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Екатерина Николаевна — опытный детский хирург, специализирующийся на диагностике и лечении широкого спектра хирургических заболеваний у детей. В её компетенцию входят острые состояния, такие как аппендицит, и плановые операции, включая герниопластику при различных видах грыж, резекцию кишечника, удаление опухолей, дренирование абсцессов, а также вмешательства на желчевыводящих путях и органах мочевыводящей системы. Особое внимание она уделяет коррекции врождённых пороков развития и помощи при травмах. Доктор проводит первичный осмотр, назначает необходимую диагностику (УЗИ, рентгенографию) и обеспечивает полнотактное ведение пациента — от предоперационной подготовки до послеоперационного наблюдения. Екатерина Николаевна постоянно совершенствует свои навыки и активно внедряет в практику современные методики лечения, чтобы обеспечить маленьким пациентам наиболее эффективную и безопасную помощь.</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_15">
+<name>Ащепкова Ольга Михайловна</name>
+<url>https://mm2.ru/doctors/ashepkova-olga-mihajlovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Bc2NoZXBrb3ZhXzIuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>47</experience_years>
+<description>Ольга Михайловна — детский врач аллерголог-иммунолог, специализирующаяся на диагностике и лечении нарушений иммунной системы у детей от рождения до 17 лет. В её компетенцию входит терапия широкого спектра аллергологических и иммунологических заболеваний, включая респираторную и пищевую аллергию, сезонный ринит, атопический и контактный дерматиты. Ольга Михайловна ведет пациентов как в амбулаторных, так и в стационарных условиях, осуществляет комплексное наблюдение, проводит консультативный прием и разрабатывает индивидуальные схемы терапии для каждого ребенка, обеспечивая непрерывное медицинское сопровождение на всех этапах лечения.</description>
+</doctor>
+<doctor id="doctor_16">
+<name>Киселева Ида Валерьевна</name>
+<url>https://mm2.ru/doctors/kiseleva-ida-valerevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8xNS5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Киселева Ида Валерьевна врач аллерголог-иммунолог, медицинский стаж 15 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, аллергологическое отделение</description>
+</doctor>
+<doctor id="doctor_17">
+<name>Журавская Екатерина Эдуардовна</name>
+<url>https://mm2.ru/doctors/zhuravskaya-ekaterina-eduardovna-1.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aaHVyYXZza2F5YV9mb3RvMi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>40</experience_years>
+<description>Екатерина Эдуардовна в полном объеме ведет консультативный прием детей от 0 до 17 лет по направлению аллергологии и иммунологии, обладает стажем врачебной практики более 35 лет, отмечена грамотой Министерства Здравоохранения РФ. К доктору можно обратиться за консультацией и назначением лечения при появлении у ребенка аллергических реакций (сыпь, покраснения, отечность), а также по вопросам питания и ранней диагностики аллергии у детей.</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_18">
+<name>Селькина Мария Андреевна</name>
+<url>https://mm2.ru/doctors/selkina-mariya-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8xLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>23</experience_years>
+<description>Мария Андреевна — специалист по лечению аллергических заболеваний и нарушений иммунной системы у детей. К её помощи обращаются при таких состояниях, как респираторная и пищевая аллергия, сезонный ринит, атопический дерматит.</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_19">
+<name>Борисенко Елена Алексеевна</name>
+<url>https://mm2.ru/doctors/borisenko-elena-alexeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Cb3Jpc2Vua29fbm92eXlfbWluXzFfLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Основными направлениями в работе Елены Алексеевны являются диагностика и лечение заболеваний пищевода, желудка, тонкой и толстой кишки, поджелудочной железы, билиарного тракта, нарушений всасывания, целиакии, белково-калорийной недостаточности. Доктор наблюдает детей от 0 до 17 лет в амбулаторных и стационарных условиях, ведет консультативный прием, а также является членом Ассоциации гастроэнтерологов России.</description>
+<reviews_total_count>5</reviews_total_count>
+</doctor>
+<doctor id="doctor_20">
+<name>Павелец Надежда Константиновна</name>
+<url>https://mm2.ru/doctors/pavelets-zaletova-nadezhda-konstantinovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9QYXZlbGV0c18yMDI0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>21</experience_years>
+<description>Надежда Константиновна ведет консультативный прием и осуществляет лечение заболеваний желудочно-кишечного тракта у детей от рождения до 17 лет. Ее подробная специализация включает воспалительные заболевания кишечника (болезнь Крона, неспецифический язвенный колит), гастроэнтерологические проявления аллергии, заболевания печени, целиакию и язвенную болезнь у детей. Доктор имеет многочисленные публикации в профильных изданиях, регулярно участвует в международных и отечественных конференциях и состоит в членстве Ассоциации детских гастроэнтерологов России.</description>
+<reviews_total_count>8</reviews_total_count>
+</doctor>
+<doctor id="doctor_21">
+<name>Авакян Анжела Аршавировна</name>
+<url>https://mm2.ru/doctors/avakyan-anzhela-arshavirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9BdmFreWFuX25vdnl5X3N6aGF0eXkucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>32</experience_years>
+<description>Анжела Аршавировна специализируется на амбулаторном приеме маленьких пациентов ревматологического профиля. В сферу её профессиональной компетенции входит диагностика и лечение широкого спектра ревматологических заболеваний, включая ревматоидный артрит, болезнь Бехтерева, острую ревматическую лихорадку, подагрический артрит, ревматизм, ювенильный артрит, системную склеродермию, приобретенные ревматические пороки сердца, феномен Рейно, остеопороз, системную красную волчанку и системные васкулиты.</description>
+<reviews_total_count>10</reviews_total_count>
+</doctor>
+<doctor id="doctor_22">
+<name>Ванькова Дарья Дмитриевна</name>
+<url>https://mm2.ru/doctors/vankova-darya-dmitrievna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9WYW5fa292YV9ub3Z5eV9taW5fMV8ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Дарья Дмитриевна осуществляет полную диагностику и лечение детей всех возрастов в области детской ревматологии. Она специализируется на заболеваниях соединительной ткани и опорно-двигательного аппарата, включая реактивные артриты и артропатии, системную красную волчанку, различные формы васкулитов, склеродермию, дерматомиозит и узловатую эритему. Доктор обеспечивает комплексный подход к каждому пациенту, применяя современные методы диагностики и индивидуальные схемы терапии, гарантируя тем самым внимательный и всесторонний подход к лечению каждого ребёнка.</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_23">
+<name>Лященко Анна Леонидовна</name>
+<url>https://mm2.ru/doctors/lyaschenko-anna-leonidovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9MeWFzY2hlbmtvX3NheXQuanBnLjE3NzM5MjIxNzg_q80.webp</picture>
+<experience_years>28</experience_years>
+<description>Анна Леонидовна специализируется на амбулаторном приеме пациентов с ревматологическими заболеваниями, включая артрологические и системные ревматические патологии. Врач проводит диагностику и лечение в соответствии с современными медицинскими стандартами, охватывая широкий спектр заболеваний: остеоартриты, ревматические воспаления периартикулярных тканей, микрокристаллические артриты, спондилоартриты, воспалительные артропатии, а также системные ревматические заболевания, такие как болезнь и синдром Шегрена, ревматоидный артрит, остеоартрозы, плечелопаточный периартрит, подагра, болезнь Бехтерева, узловатая эритема, реактивный и псориатический артриты, боли в спине неуточненного характера, остеопороз, болезнь Лайма, антифосфолипидный синдром, системная красная волчанка, системная склеродермия и идиопатические воспалительные миопатии. Анна Леонидовна обеспечивает комплексный подход к каждому пациенту, сочетая точную диагностику с индивидуально подобранной терапией.</description>
+</doctor>
+<doctor id="doctor_24">
+<name>Рагимова Наталья Александровна</name>
+<url>https://mm2.ru/doctors/ragimova-natalya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9SYWdpbW92YV9ub3Z5eV9zemhhdHl5LnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>17</experience_years>
+<description>Наталья Александровна занимается лечением заболеваний соединительной ткани и опорно-двигательного аппарата у детей. Доктор ведёт приём детей с такими заболеваниями, как: ревматоидный артрит, системный васкулит, болезни суставов костной основы груди, позвоночника и черепа и др.</description>
+</doctor>
+<doctor id="doctor_25">
+<name>Слизовский Николай Владимирович</name>
+<url>https://mm2.ru/doctors/slizovskiy-nikolay-vladimirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TbGl6b3Zza2l5X25vdnl5X3N6aGF0LnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>53</experience_years>
+<description>Николай Владимирович осуществляет диагностику и лечение детей любого возраста по направлению детской ревматологии, в полном объеме проводит лечение заболеваний соединительной ткани и опорно-двигательного аппарата, таких как артриты, системная красная волчанка, васкулиты, склеродермия, дерматомиозит, узловатая эритема. Доктор является доцентом кафедры педиатрии им. проф. И.М. Воронцова Санкт-Петербургской государственной педиатрической медицинской академии и автором более 50 печатных работ. Награжден знаками отличия Министерства здравоохранения Российской Федерации, в том числе грамотой Министерства здравоохранения РФ в 2012 году.</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_26">
+<name>Богданова Яна Геннадьевна (Афонина)</name>
+<url>https://mm2.ru/doctors/afonina-yana-gennadevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9BZm9uaW5hX25vdnl5X21pbi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>5</experience_years>
+<description>Яна Геннадьевна специализируется на комплексной диагностике, лечении и профилактике заболеваний сердечно-сосудистой системы у детей от рождения до 17 лет. В сферу её профессиональной компетенции входят гипертонические состояния, врожденные пороки сердца, нарушения ритма различного генеза, воспалительные заболевания миокарда (миокардиты), пролапс митрального клапана, кардиты ревматической и неревматической природы, вегетососудистая дистония и другие патологии. Благодаря комплексному и индивидуальному подходу к каждому пациенту, доктор не только точно определяет причины заболевания и подбирает эффективную терапию, но и разрабатывает персональные профилактические программы для предотвращения рецидивов, создавая доверительную атмосферу и обеспечивая оптимальные результаты лечения.</description>
+<reviews_total_count>10</reviews_total_count>
+</doctor>
+<doctor id="doctor_27">
+<name>Шабаева Мария Александровна</name>
+<url>https://mm2.ru/doctors/shabaeva-mariya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TaGFiYWV2YV9ub3Z5eV9zemhhdHl5LnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>27</experience_years>
+<description>Мария Александровна проводит консультативный прием маленьких пациентов с первых дней жизни до 17 лет, осуществляя тщательные осмотры, назначая лечение и давая подробные рекомендации. В совершенстве владея современными диагностическими методиками кардиологического профиля, она проводит ЭКГ с расшифровкой, эхокардиографию (ЭХО-КГ), холтеровское мониторирование ЭКГ, тредмил-тест и тилт-тест. Область профессиональных интересов доктора включает нарушения ритма сердца, помощь при синкопальных состояниях и кардиомиопатии. Мария Александровна является постоянным членом Ассоциации детских кардиологов России, Российского кардиологического общества и Российского общества холтеровского мониторирования и неинвазивной электрофизиологии, что подтверждает её высокий профессиональный статус и приверженность современным стандартам кардиологии.</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_28">
+<name>Козловская Ольга Васильевна</name>
+<url>https://mm2.ru/doctors/kozlovskaya-olga-vasilevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lb3psb3Zza2F5YV8yLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>33</experience_years>
+<description>Доктор наблюдает детей от 0 до 17 лет в амбулаторных и стационарных условиях, ведет консультативный прием. Основным направлением в работе Ольги Васильевны является диагностика и лечение мочевой инфекции у детей, нарушения функции почек, гломерулонефритов, пиелонефритов, нефроптозов, почечной недостаточности, цистита и других заболеваний мочевыводящей системы различной этиологии.</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_29">
+<name>Колесова Татьяна Валерьевна</name>
+<url>https://mm2.ru/doctors/kolesova-tatyana-valerevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lb2xlc292YS5qcGcuMTc3NzAyOTQyNA_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Татьяна Валерьевна проводит комплексное лечение детей от рождения до 17 лет по профилю нефрологии. Основным направлением ее работы является диагностика и терапия мочевых инфекций, нарушений функции почек, гломерулонефритов, пиелонефритов, нефроптозов и почечной недостаточности. В детальную специализацию доктора входят гломерулонефриты, воспалительные заболевания (пиелонефриты, острый и хронический цистит), пороки развития мочевыделительной системы, тубулопатии и хроническая болезнь почек (ХБП). Татьяна Валерьевна осуществляет полный цикл медицинской помощи — от комплексной диагностики до разработки индивидуальных планов лечения и долгосрочного ведения пациентов с хроническими патологиями.</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_30">
+<name>Лопатина Светлана Александровна</name>
+<url>https://mm2.ru/doctors/lopatina-svetlana-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Mb3BhdGluYV9ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>37</experience_years>
+<description>Светлана Александровна специализируется на нефрологическом лечении детей от рождения до 17 лет и самостоятельно проводит ультразвуковую диагностику нефрологического профиля, включая УЗИ мочевого пузыря, почек и надпочечников. В сферу её профессиональной компетенции входят диагностика и лечение гломерулонефритов, пиелонефритов, острого и хронического цистита, пороков развития мочевыделительной системы, тубулопатий и хронической болезни почек (ХБП). Доктор обеспечивает полный цикл помощи — от первичной диагностики с использованием современных ультразвуковых методик до разработки комплексных планов лечения и длительного наблюдения пациентов с хроническими патологиями.</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_31">
+<name>Андриенко Ирина Сергеевна</name>
+<url>https://mm2.ru/doctors/andrienko-irina-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9BbmRyaWVua29fMjAyNC5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>22</experience_years>
+<description>Андриенко Ирина Сергеевна врач-эндоскопист, медицинский стаж 22 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, эндоскопическая служба</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_32">
+<name>Аничкова Ирина Валентиновна</name>
+<url>https://mm2.ru/doctors/anichkova-irina-valentinovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9BbmljaGtvdmFfbm92eXlfc3poYXR5eS5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>35</experience_years>
+<description>Аничкова Ирина Валентиновна врач-нефролог. кандидат медицинских наук, медицинский стаж 35 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр.</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_33">
+<name>Аскерова Екатерина Руслановна</name>
+<url>https://mm2.ru/doctors/askerova-ekaterina-ruslanovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Bc2tlcm92YV9Fa2F0ZXJpbmFfUnVzbGFub3ZuYS5qcGcuMTc2MzcxODY4Mw_q80.webp</picture>
+<experience_years>8</experience_years>
+<description>Аскерова Екатерина Руслановна врач-рентгенолог, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики.</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_34">
+<name>Бабаева Улькер Мираламовна</name>
+<url>https://mm2.ru/doctors/babaeva-ulker-miralam-kyzy.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9CYWJhZXZhX21pbi5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Аскерова Екатерина Руслановна врач-рентгенолог, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики.</description>
+<reviews_total_count>6</reviews_total_count>
+</doctor>
+<doctor id="doctor_35">
+<name>Баиров Гирей Владимирович</name>
+<url>https://mm2.ru/doctors/bairov-girey-vladimirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9CYWlyb3ZfR1ZfMS5qcGcuMTc2ODgxMTEyMw_q80.webp</picture>
+<experience_years>18</experience_years>
+<description>Баиров Гирей Владимирович мануальный терапевт. кандидат медицинских наук, медицинский стаж 18 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение фто и лфк на 1 линии.</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_36">
+<name>Батрутдинов Руслан Тагирович</name>
+<url>https://mm2.ru/doctors/batrutdinov-ruslan-tagirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9CYXRydXRkaW5vdl8yLmpwZy4xNzcwOTkwMjU2_q80.webp</picture>
+<experience_years>30</experience_years>
+<description>Батрутдинов Руслан Тагирович детский врач уролог-андролог. кандидат медицинских наук, медицинский стаж 30 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, хирургическое отделение.</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_37">
+<name>Белоусова Надежда Евгеньевна</name>
+<url>https://mm2.ru/doctors/belousova-zavyalova-nadezhda-evgenevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9CZWxvdXNvdmFfMjAyNF9zYXl0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Белоусова Надежда Евгеньевна врач-гастроэнтеролог, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги.</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_38">
+<name>Белякова Анастасия Алексеевна</name>
+<url>https://mm2.ru/doctors/belyakova-anastasiya-alexeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8yNC5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>4</experience_years>
+<description>Белякова Анастасия Алексеевна врач-нефролог, медицинский стаж 4 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, нефрологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_39">
+<name>Битюков Константин Анатольевич</name>
+<url>https://mm2.ru/doctors/bityukov-konstantin-anatolevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9CaXR5dWtvdl8yMDI0X21pbi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>29</experience_years>
+<description>Битюков Константин Анатольевич врач травматолог-ортопед. кандидат медицинских наук, медицинский стаж 29 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_40">
+<name>Бондаловская Евгения Олеговна</name>
+<url>https://mm2.ru/doctors/bondalovskaya-evgeniya-olegovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Cb25kYWxvdnNrYXlhX25vdnl5X3N6aGF0eXkucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>29</experience_years>
+<description>Бондаловская Евгения Олеговна врач-педиатр, медицинский стаж 29 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_41">
+<name>Бородихина (Орехова) Ольга Сергеевна</name>
+<url>https://mm2.ru/doctors/orehova-olga-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9PcmVob3ZhX09TXzMucG5nLjE3NTgwOTQ3Njc_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Бородихина (Орехова) Ольга Сергеевна врач-оториноларинголог, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_42">
+<name>Борозняк Ирина Александровна</name>
+<url>https://mm2.ru/doctors/boroznyak-irina-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Cb3Jvem55YWsyLmpwZy4xNzYzNTQ2Mjcx_q80.webp</picture>
+<experience_years>4</experience_years>
+<description>Борозняк Ирина Александровна врач травматолог-ортопед, медицинский стаж 4 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_43">
+<name>Бохан Анастасия Александровна</name>
+<url>https://mm2.ru/doctors/bohan-anastasiya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Cb2hhbl9Ob3ZvZS5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Бохан Анастасия Александровна врач по лечебной физкультуре и спортивной медицине. врач физической и реабилитационной медицины. заведующий физиотерапевтическим отделением, медицинский стаж 19 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение фто и лфк на 1 линии</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_44">
+<name>Власов Николай Николаевич</name>
+<url>https://mm2.ru/doctors/vlasov-nikolay-nikolaevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9WbGFzb3ZfZm90bzIuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>48</experience_years>
+<description>Власов Николай Николаевич врач-гепатолог. кандидат медицинских наук, медицинский стаж 48 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_45">
+<name>Воржеинова Виктория Александровна</name>
+<url>https://mm2.ru/doctors/vorzheinova-viktoriya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Wb3J6aGVpbm92YV9mb3RvLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>10</experience_years>
+<description>Воржеинова Виктория Александровна врач-физиотерапевт, медицинский стаж 10 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение фто и лфк на 1 линии</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_46">
+<name>Воронина Алёна Игоревна</name>
+<url>https://mm2.ru/doctors/voronina-alena-igorevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Wb3JvbmluYS5qcGcuMTc1OTQ4Mzk2Nw_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Воронина Алёна Игоревна врач-гастроэнтеролог, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_47">
+<name>Галдина Елена Викторовна</name>
+<url>https://mm2.ru/doctors/galdina-elena-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9HYWxkaW5hMi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Галдина Елена Викторовна врач-гастроэнтеролог, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_48">
+<name>Голубев Василий Александрович</name>
+<url>https://mm2.ru/doctors/golubev-vasiliy-alexandrovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Hb2x1YmV2X25vdnl5X3N6aGF0LnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Голубев Василий Александрович врач травматолог-ортопед, медицинский стаж 15 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение сочетанной травмы</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_49">
+<name>Голубева Дарья Андреевна</name>
+<url>https://mm2.ru/doctors/golubeva-darya-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Hb2x1YmV2YV9zYXl0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>8</experience_years>
+<description>Голубева Дарья Андреевна детский врач-стоматолог, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, стоматологический кабинет</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_50">
+<name>Голубкина Татьяна Анатольевна</name>
+<url>https://mm2.ru/doctors/golubkina-tatyana-anatolevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV80Mi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Голубкина Татьяна Анатольевна врач функциональной диагностики, медицинский стаж 6 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение функциональной диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_51">
+<name>Гончаренко Дарья Михайловна</name>
+<url>https://mm2.ru/doctors/goncharenko-darya-mihaylovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Hb25jaGFyZW5rb19ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Гончаренко Дарья Михайловна врач-рентгенолог, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_52">
+<name>Гордеева Наталия Александровна</name>
+<url>https://mm2.ru/doctors/gordeeva-nataliya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Hb3JkZWV2YV9ub3Z5eS5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>10</experience_years>
+<description>Гордеева Наталия Александровна врач-ревматолог, медицинский стаж 10 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>14</reviews_total_count>
+</doctor>
+<doctor id="doctor_53">
+<name>Горышина Ирина Юрьевна</name>
+<url>https://mm2.ru/doctors/goryshina-irina-yurevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Hb3J5c2hpbmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>44</experience_years>
+<description>Горышина Ирина Юрьевна врач-рентгенолог, медицинский стаж 44 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_54">
+<name>Губашева Юлианна Юрьевна</name>
+<url>https://mm2.ru/doctors/gubasheva-yulianna-yurevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9HdWJhc2hldmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>27</experience_years>
+<description>Губашева Юлианна Юрьевна врач анестезиолог-реаниматолог, медицинский стаж 27 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение анестезиологии-реанимации</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_55">
+<name>Гурин Лев Сергеевич</name>
+<url>https://mm2.ru/doctors/gurin-lev-sergeevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9HdXJpbl9zYXl0LmpwZy4xNzc1NzM0ODQz_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Гурин Лев Сергеевич врач-нейрохирург, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, операционный блок</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_56">
+<name>Гусева Марина Николаевна</name>
+<url>https://mm2.ru/doctors/guseva-marina-nikolaevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wb3J0cmV0X3ZyYWNoYV96aGVuLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>42</experience_years>
+<description>Гусева Марина Николаевна врач аллерголог-иммунолог, медицинский стаж 42 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_57">
+<name>Гюлмамедова Земфира Тагировна</name>
+<url>https://mm2.ru/doctors/gyulmamedova-zemfira-tagirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9HeXVsbWFtZWRvdmFfWmVtZmlyYV9UYWdpcm92bmEuanBnLjE3NjM3MzAxNDg_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Гюлмамедова Земфира Тагировна врач-педиатр. заведующая отделением платных услуг, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_58">
+<name>Дрезинский Сергей Вильямович</name>
+<url>https://mm2.ru/doctors/drezinskiy-sergey-vilyamovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9EcmV6aW5za2l5X3NheXRfMi5qcGcuMTc4MjIwOTMyOA_q80.webp</picture>
+<experience_years>52</experience_years>
+<description>Дрезинский Сергей Вильямович врач-реабилитолог, медицинский стаж 52 года, принимает по адресу 14-я линия Васильевского острова, д. 57, отделение фто и лфк на 14 линии</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_59">
+<name>Дубинина Татьяна Александровна</name>
+<url>https://mm2.ru/doctors/dubinina-tatyana-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9EdWJpbmluYV9ub3Z5eV9taW4uanBlZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>27</experience_years>
+<description>Дубинина Татьяна Александровна детский врач-эндокринолог. главный внештатный детский специалист эндокринолог, медицинский стаж 27 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_60">
+<name>Дудина Ирина Владимировна</name>
+<url>https://mm2.ru/doctors/dudina-irina-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9EdWRpaW5hXzIuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>23</experience_years>
+<description>Дудина Ирина Владимировна врач функциональной диагностики, врач-ревматолог. заведующая кабинетом функциональной диагностики, медицинский стаж 23 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение функциональной диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_61">
+<name>Елецкова Любовь Владимировна</name>
+<url>https://mm2.ru/doctors/eletskova-lyubov-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9FbGV0c2tvdmFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>34</experience_years>
+<description>Елецкова Любовь Владимировна врач-невролог, медицинский стаж 34 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_62">
+<name>Ерохина Елена Дмитриевна</name>
+<url>https://mm2.ru/doctors/erohina-elena-dmitrievna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMTYuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>5</experience_years>
+<description>Ерохина Елена Дмитриевна врач-педиатр, гастроэнтеролог, медицинский стаж 5 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_63">
+<name>Жуков Владимир Сергеевич</name>
+<url>https://mm2.ru/doctors/zhukov-vladimir-sergeevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aaHVrb3YyLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Жуков Владимир Сергеевич врач-рентгенолог. заведующий отделением лучевой диагностики, медицинский стаж 15 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_64">
+<name>Забелина Елизавета Михайловна</name>
+<url>https://mm2.ru/doctors/zabelina-elizaveta-mihaylovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aYWJlbGluYV9zYXl0LmpwZy4xNzgwNTcxOTQ3_q80.webp</picture>
+<experience_years>2</experience_years>
+<description>Забелина Елизавета Михайловна детский и подростковый психолог, медицинский стаж 2 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_65">
+<name>Забродина Ольга Викторовна</name>
+<url>https://mm2.ru/doctors/zabrodina-olga-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMTMuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>14</experience_years>
+<description>Забродина Ольга Викторовна врач аллерголог-иммунолог, медицинский стаж 14 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_66">
+<name>Задорецкая Марина Александровна</name>
+<url>https://mm2.ru/doctors/zadoretskaya-marina-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aYWRvcmV0c2theWFfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>42</experience_years>
+<description>Задорецкая Марина Александровна врач ультразвуковой диагностики. врач функциональной диагностики, медицинский стаж 42 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение функциональной диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_67">
+<name>Зайцева Наталья Арсеньевна</name>
+<url>https://mm2.ru/doctors/zaytseva-natalya-arsenevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aYXl0c2V2YV9mb3RvZ3JhZml5YS5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>43</experience_years>
+<description>Зайцева Наталья Арсеньевна врач ультразвуковой диагностики, медицинский стаж 43 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_68">
+<name>Зернюк Анастасия Дмитриевна</name>
+<url>https://mm2.ru/doctors/zernyuk-anastasiya-dmitrievna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9aZXJueXVrQURfbHVjaHNoZS5qcGVnLjE3ODE2MTU3MjQ_q80.webp</picture>
+<experience_years>32</experience_years>
+<description>Зернюк Анастасия Дмитриевна врач акушер-гинеколог. кандидат медицинских наук, медицинский стаж 32 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_69">
+<name>Ибраева Айслу Темирбулатовна</name>
+<url>https://mm2.ru/doctors/ibraeva-ayslu-temirbulatovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMTAuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>30</experience_years>
+<description>Ибраева Айслу Темирбулатовна врач ультразвуковой диагностики, медицинский стаж 30 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_70">
+<name>Иванов Михаил Валерьевич</name>
+<url>https://mm2.ru/doctors/ivanov-mihail-valerevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9JdmFub3Zfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Иванов Михаил Валерьевич врач травматолог-ортопед, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение сочетанной травмы</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_71">
+<name>Икаев Ренат Тамерланович</name>
+<url>https://mm2.ru/doctors/ikaev-renat-tamerlanovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Ja2Fldl9ub3Z5eV9zemhhdC5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Икаев Ренат Тамерланович врач травматолог-ортопед, медицинский стаж 15 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_72">
+<name>Исакова Влада Витальевна</name>
+<url>https://mm2.ru/doctors/isakova-vlada-vitalevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Jc2Frb3ZhX1ZsYWRhX1ZpdGFsX2V2bmEuanBnLjE3NjE4MzE3NDY_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Исакова Влада Витальевна детский врач-хирург, медицинский стаж 7 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_73">
+<name>Кабулаева Саадат Кабулаевна</name>
+<url>https://mm2.ru/doctors/kabulaeva-saadat-kabulaevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYWJ1bGFldmFfc2F5dC5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Кабулаева Саадат Кабулаевна врач-нейрохирург, медицинский стаж 19 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение сочетанной травмы</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_74">
+<name>Казанбиев Рашидхан Зиявдинович</name>
+<url>https://mm2.ru/doctors/kazanbiev-rashidhan-ziyavdinovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYXphbmJpZXZfMjAyNi5qcGcuMTc3MDkwMDY1NQ_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Казанбиев Рашидхан Зиявдинович врач-оториноларинголог, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_75">
+<name>Каленчук Алексей Андреевич</name>
+<url>https://mm2.ru/doctors/kalenchuk-alexey-andreevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYWxlbmNodWtfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Каленчук Алексей Андреевич врач-рентгенолог, медицинский стаж 15 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_76">
+<name>Камсулин Никита Владиславович</name>
+<url>https://mm2.ru/doctors/kamsulin-nikita-vladislavovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYW1zdWxpbl9OaWtpdGFfVmxhZGlzbGF2b3ZpY2hfMy5qcGcuMTc3MDY0MDQxNQ_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Камсулин Никита Владиславович врач-рентгенолог, медицинский стаж 6 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_77">
+<name>Канавец Сергей Павлович</name>
+<url>https://mm2.ru/doctors/kanavets-sergey-pavlovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYW5hdmV0c19ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>42</experience_years>
+<description>Канавец Сергей Павлович врач-нейрохирург, медицинский стаж 42 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, операционный блок</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_78">
+<name>Карпинская Татьяна Витальевна</name>
+<url>https://mm2.ru/doctors/karpinskaya-tatyana-vitalevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYXJwaW5za2F5YV9ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>23</experience_years>
+<description>Карпинская Татьяна Витальевна врач ультразвуковой диагностики, медицинский стаж 23 года, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_79">
+<name>Карпова Римма Андреевна</name>
+<url>https://mm2.ru/doctors/karpova-rimma-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LYXJwb3ZhXzIwMjQuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Карпова Римма Андреевна врач-эндоскопист, медицинский стаж 7 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, эндоскопическая служба</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_80">
+<name>Кирюхина Любовь Владимировна</name>
+<url>https://mm2.ru/doctors/kiryuhina-lyubov-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LaXJ5dWhpbmFfbm92eXlfc3poYXR5eS5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>45</experience_years>
+<description>Кирюхина Любовь Владимировна врач-нефролог. кандидат медицинских наук, медицинский стаж 45 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_81">
+<name>Ковальчук Лариса Владимировна</name>
+<url>https://mm2.ru/doctors/kovalchuk-larisa-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lb3ZhbF9jaHVrXzIwMjQuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Ковальчук Лариса Владимировна врач-педиатр. заведующая консультативно-диагностическим центром, медицинский стаж 19 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_82">
+<name>Кокорина Елена Александровна</name>
+<url>https://mm2.ru/doctors/kokorina-elena-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMC5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Кокорина Елена Александровна врач функциональной диагностики, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_83">
+<name>Корниенко Елена Александровна</name>
+<url>https://mm2.ru/doctors/kornienko-elena-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lb3JuaWVua29fc2F5dC5qcGcuMTc4MDU3OTcwNQ_q80.webp</picture>
+<experience_years>49</experience_years>
+<description>Корниенко Елена Александровна врач-гастроэнтеролог. доктор медицинских наук. главный внештатный детский специалист по гастроэнтерологии и эндоскопии, медицинский стаж 49 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_84">
+<name>Коцкович Анна Владимировна</name>
+<url>https://mm2.ru/doctors/kotskovich-anna-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lb3Rza292aWNoX25vdnl5X21pbi5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Коцкович Анна Владимировна врач аллерголог-иммунолог, медицинский стаж 6 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, аллергологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_85">
+<name>Кривко Маргарита Викторовна</name>
+<url>https://mm2.ru/doctors/krivko-margarita-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Lcml2a29fbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Кривко Маргарита Викторовна врач-оториноларинголог, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>12</reviews_total_count>
+</doctor>
+<doctor id="doctor_86">
+<name>Круглов Игорь Юрьевич</name>
+<url>https://mm2.ru/doctors/kruglov-igor-yurevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LcnVnbG92X3RyYXZtYXRvbG9nLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Круглов Игорь Юрьевич врач травматолог-ортопед. кандидат медицинских наук, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_87">
+<name>Кузьмин Артём Владимирович</name>
+<url>https://mm2.ru/doctors/kuzmin-artem-vladimirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9LdXpfbWluX25vdnl5LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>4</experience_years>
+<description>Кузьмин Артём Владимирович врач травматолог-ортопед, медицинский стаж 4 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_88">
+<name>Мамаев Павел Владимирович</name>
+<url>https://mm2.ru/doctors/mamaev-pavel-vladimirovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NYW1hZXZfbm92eXkyX21pbi5qcGcuMTc2NTQ1NzE5OA_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Мамаев Павел Владимирович детский психолог, нейропсихолог, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_89">
+<name>Мартиросян Наира Фёдоровна</name>
+<url>https://mm2.ru/doctors/martirosyan-naira-fedorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NYXJ0aXJvc3lhbl8yMDI0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Мартиросян Наира Фёдоровна врач травматолог-ортопед. заведующая центром амбулаторной хирургии и травматологии (цахт), медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_90">
+<name>Марцулевич Ольга Ивановна</name>
+<url>https://mm2.ru/doctors/martsulevich-olga-ivanovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NYXJ0c3VsZXZpY2hfbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>46</experience_years>
+<description>Марцулевич Ольга Ивановна врач ультразвуковой диагностики. кандидат медицинских наук, медицинский стаж 46 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_91">
+<name>Мельникова Вера Алексеевна</name>
+<url>https://mm2.ru/doctors/melnikova-vera-alexeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8xMS5qcGcuMTc2MDUxOTQ5OA_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Мельникова Вера Алексеевна врач-ревматолог, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, ревматологическое отделение</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_92">
+<name>Мешков Василий Васильевич</name>
+<url>https://mm2.ru/doctors/meshkov-vasiliy-vasilevich-1.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NZXNoa292X1Zhc2lsaXlfVmFzaWxfZXZpY2guanBnLjE3NjE4MzE4MDk_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Мешков Василий Васильевич врач травматолог-ортопед, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_93">
+<name>Михалина Ульяна Дмитриевна</name>
+<url>https://mm2.ru/doctors/mihalina-ulyana-dmitrievna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9NaWhhbGluYS5qcGcuMTc3NTY1NDA5OQ_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Михалина Ульяна Дмитриевна детский врач-психиатр, медицинский стаж 6 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_94">
+<name>Моисеенкова Юлия Андреевна</name>
+<url>https://mm2.ru/doctors/moiseenkova-yuliya-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Nb2lzZWVua292YV8yMDI0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Моисеенкова Юлия Андреевна врач-гастроэнтеролог, педиатр. заведующая городским детским центром гастроэнтерологии, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_95">
+<name>Моисейкова Екатерина Леонидовна</name>
+<url>https://mm2.ru/doctors/moiseykova-ekaterina-leonidovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Nb2lzZXlrb3ZhX3NheXQuanBnLjE3ODA1NzQ4Njc_q80.webp</picture>
+<experience_years>27</experience_years>
+<description>Моисейкова Екатерина Леонидовна врач-гастроэнтеролог. кандидат медицинских наук, медицинский стаж 27 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, гастроэнтерологическое отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_96">
+<name>Молчанов Олег Сергеевич</name>
+<url>https://mm2.ru/doctors/molchanov-oleg-sergeevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfbXV6aGNoaW5hXzQuanBnLjE3NjE5MTQ5MDA_q80.webp</picture>
+<experience_years>22</experience_years>
+<description>Молчанов Олег Сергеевич врач травматолог-ортопед, медицинский стаж 22 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_97">
+<name>Москвина Галина Владиславовна</name>
+<url>https://mm2.ru/doctors/moskvina-galina-vladislavovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Nb3NrdmluYV9zYXl0Mi5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>21</experience_years>
+<description>Москвина Галина Владиславовна врач ультразвуковой диагностики, медицинский стаж 21 год, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_98">
+<name>Нарайкина Светлана Викторовна</name>
+<url>https://mm2.ru/doctors/naraykina-svetlana-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9OYXJheWtpbmEzLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>35</experience_years>
+<description>Нарайкина Светлана Викторовна врач-педиатр. врач приёмного отделения, медицинский стаж 35 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, приёмное отделение</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_99">
+<name>Никонов Роман Алексеевич</name>
+<url>https://mm2.ru/doctors/nikonov-roman-alexeevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9OaWtvbm92X25vdnl5X21pbi5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>11</experience_years>
+<description>Никонов Роман Алексеевич врач-рентгенолог, медицинский стаж 11 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_100">
+<name>Нурмахов Чингиз Фархадович</name>
+<url>https://mm2.ru/doctors/nurmahov-chingiz-farhadovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9OdXJtYWhvdi5wbmcuMTc2NTg2NjgxNg_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Нурмахов Чингиз Фархадович врач травматолог-ортопед, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_101">
+<name>Олейник Евгения Сергеевна</name>
+<url>https://mm2.ru/doctors/oleynik-evgeniya-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9PbGV5bmlrX2ZvdG9fb2Z0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>8</experience_years>
+<description>Олейник Евгения Сергеевна врач-офтальмолог, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_102">
+<name>Пилевина Екатерина Сергеевна</name>
+<url>https://mm2.ru/doctors/pilevina-ekaterina-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9QaWxldmluYV8zLmpwZy4xNzYxNzMwNzU2_q80.webp</picture>
+<experience_years>15</experience_years>
+<description>Пилевина Екатерина Сергеевна врач аллерголог-иммунолог, медицинский стаж 15 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_103">
+<name>Подусенко Виктория Викторовна</name>
+<url>https://mm2.ru/doctors/podusenko-viktoriya-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Qb2R1c2Vua29fbm92eXlfc3poYXR5eS5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>38</experience_years>
+<description>Подусенко Виктория Викторовна врач-гастроэнтеролог. кандидат медицинских наук, медицинский стаж 38 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_104">
+<name>Попова Наталья Александровна</name>
+<url>https://mm2.ru/doctors/popova-natalya-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Qb3BvdmEuanBnLjE3NjA0NDgzMjM_q80.webp</picture>
+<experience_years>41</experience_years>
+<description>Попова Наталья Александровна врач-офтальмолог, хирург-офтальмолог. доктор медицинских наук, медицинский стаж 41 год, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_105">
+<name>Прокопенко Светлана Сергеевна</name>
+<url>https://mm2.ru/doctors/prokopenko-svetlana-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8xNy5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Прокопенко Светлана Сергеевна врач ультразвуковой диагностики, медицинский стаж 19 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_106">
+<name>Пунанов Юрий Александрович</name>
+<url>https://mm2.ru/doctors/punanov-yuriy-alexandrovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9QdW5hbm92X3NheXQuanBlZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>48</experience_years>
+<description>Пунанов Юрий Александрович детский врач-онколог. доктор медицинских наук, медицинский стаж 48 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_107">
+<name>Пуряева Вера Владимировна</name>
+<url>https://mm2.ru/doctors/puryaeva-vera-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9QdXJ5YWV2YS5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>21</experience_years>
+<description>Пуряева Вера Владимировна врач-невролог, медицинский стаж 21 год, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_108">
+<name>Разгуляева Диана Николаевна</name>
+<url>https://mm2.ru/doctors/razgulyaeva-diana-nikolaevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8zNC5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>18</experience_years>
+<description>Разгуляева Диана Николаевна врач-гастроэнтеролог, медицинский стаж 18 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_109">
+<name>Рощина Наталья Владимировна</name>
+<url>https://mm2.ru/doctors/roschina-natalya-vladimirovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Sb3NjaGluYV9OYXRhbF95YV8xMTEuanBnLjE3Njk3NzU4ODE_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Рощина Наталья Владимировна детский врач-онколог. кандидат медицинских наук, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_110">
+<name>Рыбачек Анастасия Сергеевна</name>
+<url>https://mm2.ru/doctors/rybachk-anastasiya-sergeevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfemhlbnNjaGluYV8zNS5qcGcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>4</experience_years>
+<description>Рыбачек Анастасия Сергеевна детский врач-кардиолог, медицинский стаж 4 года, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_111">
+<name>Савичев Роман Олегович</name>
+<url>https://mm2.ru/doctors/savichev-roman-olegovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TYXZpY2hldl9Sb21hbl9PbGVnb3ZpY2guanBnLjE3NjIzMzMxNzk_q80.webp</picture>
+<experience_years>9</experience_years>
+<description>Савичев Роман Олегович врач-рентгенолог, медицинский стаж 9 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_112">
+<name>Салахов Эльзамин Салехович</name>
+<url>https://mm2.ru/doctors/salahov-elzamin-salehovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TYWxhaG92X2ZvdG8zLmpwZy4xNzcwNzIyMDU1_q80.webp</picture>
+<experience_years>27</experience_years>
+<description>Салахов Эльзамин Салехович детский врач-хирург. кандидат медицинских наук, медицинский стаж 27 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение гнойной хирургии</description>
+<reviews_total_count>3</reviews_total_count>
+</doctor>
+<doctor id="doctor_113">
+<name>Сантимов Андрей Вячеславович</name>
+<url>https://mm2.ru/doctors/santimov-andrey-vyacheslavovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TYW50aW1vdi5qcGcuMTc2MzcxMTczMA_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Сантимов Андрей Вячеславович врач-ревматолог. кандидат медицинских наук, медицинский стаж 16 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_114">
+<name>Сатторов Бурхониддин Зайнидинович</name>
+<url>https://mm2.ru/doctors/sattorov-burhoniddin-zaynidinovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9wZXJzb25hemhfbXV6aGNoaW5hXzEuanBnLjE3NzU3Mjg5NDA_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Сатторов Бурхониддин Зайнидинович врач травматолог-ортопед, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_115">
+<name>Семёнова Юлия Константиновна</name>
+<url>https://mm2.ru/doctors/semenova-yuliya-konstantinovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TZW1lbm92YV9ub3Z5eV9taW4ucG5nLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Семёнова Юлия Константиновна детский врач-онколог, медицинский стаж 6 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_116">
+<name>Семибратова Татьяна Павловна</name>
+<url>https://mm2.ru/doctors/semibratova-tatyana-pavlovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TZW1pYnJhdG92YV9zYXl0LmpwZy4xNzYzOTkyMDQ2_q80.webp</picture>
+<experience_years>50</experience_years>
+<description>Семибратова Татьяна Павловна врач аллерголог-иммунолог, медицинский стаж 50 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_117">
+<name>Сигунов Виктор Сергеевич</name>
+<url>https://mm2.ru/doctors/sigunov-viktor-sergeevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TaWd1bm92X25vdnl5X21pbi5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>48</experience_years>
+<description>Сигунов Виктор Сергеевич детский врач-хирург, медицинский стаж 48 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_118">
+<name>Смирнов Александр Александрович</name>
+<url>https://mm2.ru/doctors/smirnov-alexandr-alexandrovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS92cmFjaF9TbWlybm92LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>22</experience_years>
+<description>Смирнов Александр Александрович врач-эндоскопист, хирург. доктор медицинских наук, медицинский стаж 22 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, эндоскопическая служба</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_119">
+<name>Смирнова Татьяна Михайловна</name>
+<url>https://mm2.ru/doctors/smirnova-tatyana-mihaylovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMjkuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Смирнова Татьяна Михайловна врач-педиатр, медицинский стаж 7 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, орфанный центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_120">
+<name>Стародубцева Елена Борисовна</name>
+<url>https://mm2.ru/doctors/starodubtseva-elena-borisovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TdGFyb2R1YnRzZXZhX25vdnl5X21pbi5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>49</experience_years>
+<description>Стародубцева Елена Борисовна врач травматолог-ортопед, медицинский стаж 49 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, центр спинальной травмы</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_121">
+<name>Сулика Виктор Константинович</name>
+<url>https://mm2.ru/doctors/sulika-viktor-konstantinovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TdWxpa2Ffbm92eXlfbWluLnBuZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>36</experience_years>
+<description>Сулика Виктор Константинович врач травматолог-ортопед. заведующий центром спинальной травмы, медицинский стаж 36 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, центр спинальной травмы</description>
+<reviews_total_count>6</reviews_total_count>
+</doctor>
+<doctor id="doctor_122">
+<name>Суриков Артём Анатольевич</name>
+<url>https://mm2.ru/doctors/surikov-artem-anatolevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TdXJpa292XzIwMjQuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>7</experience_years>
+<description>Суриков Артём Анатольевич врач-нейрохирург, медицинский стаж 7 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение сочетанной травмы</description>
+<reviews_total_count>5</reviews_total_count>
+</doctor>
+<doctor id="doctor_123">
+<name>Тимофеева Елена Юрьевна</name>
+<url>https://mm2.ru/doctors/timofeeva-elena-yurevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMjYuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>30</experience_years>
+<description>Тимофеева Елена Юрьевна врач ультразвуковой диагностики, медицинский стаж 30 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_124">
+<name>Трофимов Александр Валерьянович</name>
+<url>https://mm2.ru/doctors/trofimov-alexandr-valeryanovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Ucm9maW1vdl8yMDI0LmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>20</experience_years>
+<description>Трофимов Александр Валерьянович врач травматолог-ортопед. заведующий отделением сочетанной травмы, медицинский стаж 20 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение сочетанной травмы</description>
+<reviews_total_count>5</reviews_total_count>
+</doctor>
+<doctor id="doctor_125">
+<name>Трухин Андрей Евгеньевич</name>
+<url>https://mm2.ru/doctors/truhin-andrey-evgenevich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9UcnVoaW4uanBnLjE3NjMxMDc3MTY_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Трухин Андрей Евгеньевич врач травматолог-ортопед, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_126">
+<name>Тяпкин Иван Германович</name>
+<url>https://mm2.ru/doctors/tyapkin-ivan-germanovich.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9UeWFwa2luX3NheXQuanBnLjE3ODA2NTEzNTI_q80.webp</picture>
+<experience_years>17</experience_years>
+<description>Тяпкин Иван Германович врач-рентгенолог, медицинский стаж 17 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_127">
+<name>Финне Анна Ивановна</name>
+<url>https://mm2.ru/doctors/finne-anna-ivanovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS8zMTcxZDZhMF9jODBhXzRmZWRfYWRlYl83NWViZGVhYmRmZTVfMjUuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>8</experience_years>
+<description>Финне Анна Ивановна врач-рентгенолог, медицинский стаж 8 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_128">
+<name>Цысь Варвара Алевтиновна</name>
+<url>https://mm2.ru/doctors/tsys-varvara-alevtinovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9Uc3lzX1ZhcnZhcmEyLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>36</experience_years>
+<description>Цысь Варвара Алевтиновна врач-невролог. врач функциональной диагностики, медицинский стаж 36 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>1</reviews_total_count>
+</doctor>
+<doctor id="doctor_129">
+<name>Чернова Маргарита Александровна</name>
+<url>https://mm2.ru/doctors/chernova-margarita-alexandrovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9DaGVybm92YV9hbGxlcmdvbG9nX2l0b2dvLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>6</experience_years>
+<description>Чернова Маргарита Александровна врач аллерголог-иммунолог, медицинский стаж 6 лет, принимает по адресу 14-я линия Васильевского острова, д. 57, консультативно-диагностический центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_130">
+<name>Чипиницкая Светлана Николаевна</name>
+<url>https://mm2.ru/doctors/chipinitskaya-svetlana-nikolaevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9DaGlwaW5pdHNrYXlhX25vdnl5X21pbl8zXy5wbmcuMTc1MDkyNjk1MQ_q80.webp</picture>
+<experience_years>19</experience_years>
+<description>Чипиницкая Светлана Николаевна детский врач-кардиолог, медицинский стаж 19 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, кардиологическое отделение</description>
+<reviews_total_count>11</reviews_total_count>
+</doctor>
+<doctor id="doctor_131">
+<name>Чистович Мария Никитична</name>
+<url>https://mm2.ru/doctors/chistovich-mariya-nikitichna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9DaGlzdG92aWNoX25vdnl5X21pbi5qcGcuMTc2NTUzNzI2Mw_q80.webp</picture>
+<experience_years>16</experience_years>
+<description>Чистович Мария Никитична врач-офтальмолог, медицинский стаж 16 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>4</reviews_total_count>
+</doctor>
+<doctor id="doctor_132">
+<name>Шабардина Елена Андреевна</name>
+<url>https://mm2.ru/doctors/shabardina-elena-andreevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TaGFiYXJkaW5hXzJfbm92eXlfbWluLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>13</experience_years>
+<description>Шабардина Елена Андреевна детский врач-эндокринолог, медицинский стаж 13 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, смотровые кабинеты и платные услуги</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_133">
+<name>Шадова Ирина Анатольевна</name>
+<url>https://mm2.ru/doctors/shadova-irina-anatolevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TaGFkb3ZhXzIwMjQuanBnLjE3NTA5MjY5NTE_q80.webp</picture>
+<experience_years>37</experience_years>
+<description>Шадова Ирина Анатольевна врач функциональной диагностики, медицинский стаж 37 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, орфанный центр</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_134">
+<name>Шилькрут София Евгеньевна</name>
+<url>https://mm2.ru/doctors/shilkrut-sofiya-evgenevna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9TaGlsX2tydXRfMjAyNi5qcGcuMTc3MDg5OTY3OQ_q80.webp</picture>
+<experience_years>5</experience_years>
+<description>Шилькрут София Евгеньевна врач-оториноларинголог, медицинский стаж 5 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, консультативно-диагностический центр</description>
+<reviews_total_count>2</reviews_total_count>
+</doctor>
+<doctor id="doctor_135">
+<name>Якорь Елена Викторовна</name>
+<url>https://mm2.ru/doctors/yakor-elena-viktorovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9ZYWtvcl9mb3RvLmpwZy4xNzUwOTI2OTUx_q80.webp</picture>
+<experience_years>11</experience_years>
+<description>Якорь Елена Викторовна врач-рентгенолог, медицинский стаж 11 лет, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, отделение лучевой диагностики</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+<doctor id="doctor_136">
+<name>Яралиева Эльвира Анверовна</name>
+<url>https://mm2.ru/doctors/yaralieva-elvira-anverovna.html?utm_source=yandexserp</url>
+<picture>https://mm2.ru/local/cache/images/L25ldGNhdF9maWxlcy8xNC8yMS9ZYXJhbGlldmEuanBnLjE3NjMxMjg5MTE_q80.webp</picture>
+<experience_years>3</experience_years>
+<description>Яралиева Эльвира Анверовна врач травматолог-ортопед, медицинский стаж 3 года, принимает по адресу 1-я линия Васильевского острова, д. 58, лит. А, центр амбулаторной хирургии и травматологии (цахт)</description>
+<reviews_total_count>0</reviews_total_count>
+</doctor>
+</doctors>
+<clinics>
+<clinic id="clinic_1">
+<name>Детская больница №2 Св. Марии Магдалины</name>
+<city>г. Санкт-Петербург</city>
+<address>1-я линия Васильевского острова, 58Л</address>
+<phone>8(812)670-45-45</phone>
+</clinic>
+</clinics>
+<services>
+<service id="service_1">
+<name>Первичный приём: Хирург</name>
+<description>Первичная консультация (Хирург)</description>
+</service>
+<service id="service_2">
+<name>Первичный приём: Стоматолог</name>
+<description>Первичная консультация (Стоматолог)</description>
+</service>
+<service id="service_3">
+<name>Первичный приём: Уролог-андролог</name>
+<description>Первичная консультация (Уролог)</description>
+</service>
+<service id="service_4">
+<name>Первичный прием: Оториноларинголог</name>
+<description>Первичная консультация (Оториноларинголог)</description>
+</service>
+<service id="service_5">
+<name>Первичный приём: Аллерголог-иммунолог</name>
+<description>Первичная консультация (Аллерголог)</description>
+</service>
+<service id="service_6">
+<name>Первичный приём: Педиатр</name>
+<description>Первичная консультация (Педиатр)</description>
+</service>
+<service id="service_7">
+<name>Первичный приём: Гастроэнтеролог</name>
+<description>Первичная консультация (Гастроэнтеролог)</description>
+</service>
+<service id="service_8">
+<name>Первичный приём: Ревматолог</name>
+<description>Первичная консультация (Ревматолог)</description>
+</service>
+<service id="service_9">
+<name>Первичный приём: Кардиолог</name>
+<description>Первичная консультация (Кардиолог)</description>
+</service>
+<service id="service_10">
+<name>Первичный приём: Нефролог</name>
+<description>Первичная консультация (Нефролог)</description>
+</service>
+<service id="service_11">
+<name>Первичный приём: Физиотерапевт</name>
+<description>Первичная консультация (Физиотерапевт)</description>
+</service>
+<service id="service_12">
+<name>Первичный приём: Эндоскопист</name>
+<description>Первичная консультация (Эндоскопист)</description>
+</service>
+<service id="service_13">
+<name>Первичный приём: Анестезиолог-реаниматолог</name>
+<description>Первичная консультация (Анестезиолог-реаниматолог)</description>
+</service>
+<service id="service_14">
+<name>Первичный приём: Нейрохирург</name>
+<description>Первичная консультация (Нейрохирург)</description>
+</service>
+<service id="service_15">
+<name>Первичный приём: Травматолог-ортопед</name>
+<description>Первичная консультация (Травматолог)</description>
+</service>
+<service id="service_16">
+<name>Первичный приём: Гепатолог</name>
+<description>Первичная консультация (Гепатолог)</description>
+</service>
+<service id="service_17">
+<name>Первичный приём: Эндокринолог</name>
+<description>Первичная консультация (Эндокринолог)</description>
+</service>
+<service id="service_18">
+<name>Первичный приём: Невролог</name>
+<description>Первичная консультация (Невролог)</description>
+</service>
+<service id="service_19">
+<name>Первичный приём: Психиатр</name>
+<description>Первичная консультация (Психиатр)</description>
+</service>
+<service id="service_20">
+<name>Первичный приём: Офтальмолог</name>
+<description>Первичная консультация (Офтальмолог)</description>
+</service>
+<service id="service_21">
+<name>Первичный приём: Акушер-гинеколог</name>
+<description>Первичная консультация (Акушер-гинеколог)</description>
+</service>
+<service id="service_22">
+<name>Первичный приём: Онколог</name>
+<description>Первичная консультация (Онколог)</description>
+</service>
+<service id="service_23">
+<name>Первичный приём: Врач ЛФК</name>
+<description>Первичная консультация (Врач ЛФК)</description>
+</service>
+<service id="service_24">
+<name>Первичный приём: Мануальный терапевт</name>
+<description>Первичная консультация (Мануальный терапевт) с мануальной терапией</description>
+</service>
+<service id="service_25">
+<name>Медицинская реабилитация</name>
+<description>Медицинская реабилитация</description>
+</service>
+<service id="service_26">
+<name>Клинико-психологическое консультирование</name>
+<description>Клинико-психологическое консультирование</description>
+</service>
+<service id="service_27">
+<name>МРТ головного мозга</name>
+<description>Магнитно-резонансная томография головного мозга</description>
+</service>
+<service id="service_28">
+<name>Комплексное УЗИ внутренних органов</name>
+<description>Комплексное УЗИ внутренних органов (брюшная полость, почки, надпочечники, мочевой пузырь)</description>
+</service>
+<service id="service_29">
+<name>КТ головного мозга</name>
+<description>Компьютерная томография головного мозга</description>
+</service>
+<service id="service_30">
+<name>Регистрация электрокардиографии (ЭКГ)</name>
+<description>Регистрация электрокардиографии (ЭКГ)</description>
+</service>
+<service id="service_31">
+<name>Рентгенография грудного отдела позвоночника (1 проекция)</name>
+<description>Рентгенография грудного отдела позвоночника (1 проекция)</description>
+</service>
+<service id="service_32">
+<name>Рентгенография легких (органы грудной клетки, 2 проекции)</name>
+<description>Рентгенография легких (органы грудной клетки, 2 проекции)</description>
+</service>
+<service id="service_33">
+<name>Рентгенография позвоночника (2 проекции, любой отдел)</name>
+<description>Рентгенография позвоночника (2 проекции, любой отдел)</description>
+</service>
+<service id="service_34">
+<name>Суточное холтеровское мониторирование ЭКГ (расшифровка)</name>
+<description>Суточное холтеровское мониторирование ЭКГ (расшифровка)</description>
+</service>
+<service id="service_35">
+<name>Суточное холтеровское мониторирование ЭКГ+АД</name>
+<description>Суточное холтеровское мониторирование ЭКГ+АД</description>
+</service>
+<service id="service_36">
+<name>УЗИ почек и надпочечников</name>
+<description>УЗИ почек и надпочечников</description>
+</service>
+</services>
+<offers>
+<offer id="offer_1">
+<url>https://mm2.ru/doctors/nurmagomedov-magomed-nurmagomedovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_1">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_2">
+<url>https://mm2.ru/doctors/vitovschik-mihail-grigorevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6030</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_2">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_3">
+<url>https://mm2.ru/doctors/zernyuk-ivan-yurevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_3">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_4">
+<url>https://mm2.ru/doctors/zykova-olga-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_4">
+<speciality>стоматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_5">
+<url>https://mm2.ru/doctors/abmaykin-mihail-yurevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_5">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_6">
+<url>https://mm2.ru/doctors/kachanova-polina-pavlovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_6">
+<speciality>стоматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_7">
+<url>https://mm2.ru/doctors/tristanova-natalya-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_7">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_8">
+<url>https://mm2.ru/doctors/chikov-leonid-georgievich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_8">
+<speciality>стоматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_9">
+<url>https://mm2.ru/doctors/boyko-andrey-vladimirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_3"/>
+<clinic id="clinic_1">
+<doctor id="doctor_9">
+<speciality>уролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_10">
+<url>https://mm2.ru/doctors/islamov-feruz-olimovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_3"/>
+<clinic id="clinic_1">
+<doctor id="doctor_10">
+<speciality>уролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_11">
+<url>https://mm2.ru/doctors/mansurova-svetlana-ravilevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_11">
+<speciality>оториноларинголог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_12">
+<url>https://mm2.ru/doctors/polyakov-petr-nikolaevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_3"/>
+<clinic id="clinic_1">
+<doctor id="doctor_12">
+<speciality>уролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_13">
+<url>https://mm2.ru/doctors/rozhkova-anastasiya-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_13">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_14">
+<url>https://mm2.ru/doctors/scherbina-ekaterina-nikolaevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_14">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_15">
+<url>https://mm2.ru/doctors/ashepkova-olga-mihajlovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6530</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_15">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_16">
+<url>https://mm2.ru/doctors/kiseleva-ida-valerevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_16">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_17">
+<url>https://mm2.ru/doctors/zhuravskaya-ekaterina-eduardovna-1.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_17">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_18">
+<url>https://mm2.ru/doctors/selkina-mariya-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_18">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_19">
+<url>https://mm2.ru/doctors/borisenko-elena-alexeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_19">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_20">
+<url>https://mm2.ru/doctors/pavelets-zaletova-nadezhda-konstantinovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_20">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_21">
+<url>https://mm2.ru/doctors/avakyan-anzhela-arshavirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_21">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_22">
+<url>https://mm2.ru/doctors/vankova-darya-dmitrievna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_22">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_23">
+<url>https://mm2.ru/doctors/lyaschenko-anna-leonidovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_23">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_24">
+<url>https://mm2.ru/doctors/ragimova-natalya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_24">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_25">
+<url>https://mm2.ru/doctors/slizovskiy-nikolay-vladimirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_25">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_26">
+<url>https://mm2.ru/doctors/afonina-yana-gennadevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4410</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_9"/>
+<clinic id="clinic_1">
+<doctor id="doctor_26">
+<speciality>кардиолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_27">
+<url>https://mm2.ru/doctors/shabaeva-mariya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5170</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_9"/>
+<clinic id="clinic_1">
+<doctor id="doctor_27">
+<speciality>кардиолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_28">
+<url>https://mm2.ru/doctors/kozlovskaya-olga-vasilevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6550</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_28">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_29">
+<url>https://mm2.ru/doctors/kolesova-tatyana-valerevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_29">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_30">
+<url>https://mm2.ru/doctors/lopatina-svetlana-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_30">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_31">
+<url>https://mm2.ru/doctors/andrienko-irina-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3270</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_12"/>
+<clinic id="clinic_1">
+<doctor id="doctor_31">
+<speciality>эндоскопист</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_32">
+<url>https://mm2.ru/doctors/anichkova-irina-valentinovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_32">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_33">
+<url>https://mm2.ru/doctors/askerova-ekaterina-ruslanovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>2660</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_31"/>
+<clinic id="clinic_1">
+<doctor id="doctor_33">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_34">
+<url>https://mm2.ru/doctors/babaeva-ulker-miralam-kyzy.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3270</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_12"/>
+<clinic id="clinic_1">
+<doctor id="doctor_34">
+<speciality>эндоскопист</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_35">
+<url>https://mm2.ru/doctors/bairov-girey-vladimirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>8970</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_24"/>
+<clinic id="clinic_1">
+<doctor id="doctor_35">
+<speciality>мануальный терапевт</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_36">
+<url>https://mm2.ru/doctors/batrutdinov-ruslan-tagirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_3"/>
+<clinic id="clinic_1">
+<doctor id="doctor_36">
+<speciality>уролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_37">
+<url>https://mm2.ru/doctors/belousova-zavyalova-nadezhda-evgenevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_37">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_38">
+<url>https://mm2.ru/doctors/belyakova-anastasiya-alexeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_38">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_39">
+<url>https://mm2.ru/doctors/bityukov-konstantin-anatolevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_39">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_40">
+<url>https://mm2.ru/doctors/bondalovskaya-evgeniya-olegovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_40">
+<speciality>педиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_41">
+<url>https://mm2.ru/doctors/orehova-olga-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_41">
+<speciality>оториноларинголог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_42">
+<url>https://mm2.ru/doctors/boroznyak-irina-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_42">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_43">
+<url>https://mm2.ru/doctors/bohan-anastasiya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3450</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_23"/>
+<clinic id="clinic_1">
+<doctor id="doctor_43">
+<speciality>спортивный врач</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_44">
+<url>https://mm2.ru/doctors/vlasov-nikolay-nikolaevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_16"/>
+<clinic id="clinic_1">
+<doctor id="doctor_44">
+<speciality>гепатолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_45">
+<url>https://mm2.ru/doctors/vorzheinova-viktoriya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3270</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_11"/>
+<clinic id="clinic_1">
+<doctor id="doctor_45">
+<speciality>физиотерапевт</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_46">
+<url>https://mm2.ru/doctors/voronina-alena-igorevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_46">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_47">
+<url>https://mm2.ru/doctors/galdina-elena-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_47">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_48">
+<url>https://mm2.ru/doctors/golubev-vasiliy-alexandrovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_48">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_49">
+<url>https://mm2.ru/doctors/golubeva-darya-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_2"/>
+<clinic id="clinic_1">
+<doctor id="doctor_49">
+<speciality>стоматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_50">
+<url>https://mm2.ru/doctors/golubkina-tatyana-anatolevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>1330</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_30"/>
+<clinic id="clinic_1">
+<doctor id="doctor_50">
+<speciality>врач функциональной диагностики</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_51">
+<url>https://mm2.ru/doctors/goncharenko-darya-mihaylovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_51">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_52">
+<url>https://mm2.ru/doctors/gordeeva-nataliya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_52">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_53">
+<url>https://mm2.ru/doctors/goryshina-irina-yurevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4080</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_33"/>
+<clinic id="clinic_1">
+<doctor id="doctor_53">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_54">
+<url>https://mm2.ru/doctors/gubasheva-yulianna-yurevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4250</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_13"/>
+<clinic id="clinic_1">
+<doctor id="doctor_54">
+<speciality>анестезиолог-реаниматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_55">
+<url>https://mm2.ru/doctors/gurin-lev-sergeevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_14"/>
+<clinic id="clinic_1">
+<doctor id="doctor_55">
+<speciality>нейрохирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_56">
+<url>https://mm2.ru/doctors/guseva-marina-nikolaevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_56">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_57">
+<url>https://mm2.ru/doctors/gyulmamedova-zemfira-tagirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_57">
+<speciality>педиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_58">
+<url>https://mm2.ru/doctors/drezinskiy-sergey-vilyamovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>1940</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_25"/>
+<clinic id="clinic_1">
+<doctor id="doctor_58">
+<speciality>реабилитолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_59">
+<url>https://mm2.ru/doctors/dubinina-tatyana-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_17"/>
+<clinic id="clinic_1">
+<doctor id="doctor_59">
+<speciality>эндокринолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_60">
+<url>https://mm2.ru/doctors/dudina-irina-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_60">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_61">
+<url>https://mm2.ru/doctors/eletskova-lyubov-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_18"/>
+<clinic id="clinic_1">
+<doctor id="doctor_61">
+<speciality>невролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_62">
+<url>https://mm2.ru/doctors/erohina-elena-dmitrievna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_62">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_63">
+<url>https://mm2.ru/doctors/zhukov-vladimir-sergeevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_63">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_64">
+<url>https://mm2.ru/doctors/zabelina-elizaveta-mihaylovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4390</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_26"/>
+<clinic id="clinic_1">
+<doctor id="doctor_64">
+<speciality>психолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_65">
+<url>https://mm2.ru/doctors/zabrodina-olga-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_65">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_66">
+<url>https://mm2.ru/doctors/zadoretskaya-marina-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6820</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_34"/>
+<clinic id="clinic_1">
+<doctor id="doctor_66">
+<speciality>врач функциональной диагностики</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_67">
+<url>https://mm2.ru/doctors/zaytseva-natalya-arsenevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3070</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_36"/>
+<clinic id="clinic_1">
+<doctor id="doctor_67">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_68">
+<url>https://mm2.ru/doctors/zernyuk-anastasiya-dmitrievna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5350</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_21"/>
+<clinic id="clinic_1">
+<doctor id="doctor_68">
+<speciality>акушер-гинеколог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_69">
+<url>https://mm2.ru/doctors/ibraeva-ayslu-temirbulatovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_28"/>
+<clinic id="clinic_1">
+<doctor id="doctor_69">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_70">
+<url>https://mm2.ru/doctors/ivanov-mihail-valerevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_70">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_71">
+<url>https://mm2.ru/doctors/ikaev-renat-tamerlanovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_71">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_72">
+<url>https://mm2.ru/doctors/isakova-vlada-vitalevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_72">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_73">
+<url>https://mm2.ru/doctors/kabulaeva-saadat-kabulaevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_14"/>
+<clinic id="clinic_1">
+<doctor id="doctor_73">
+<speciality>нейрохирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_74">
+<url>https://mm2.ru/doctors/kazanbiev-rashidhan-ziyavdinovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_74">
+<speciality>оториноларинголог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_75">
+<url>https://mm2.ru/doctors/kalenchuk-alexey-andreevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_75">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_76">
+<url>https://mm2.ru/doctors/kamsulin-nikita-vladislavovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4080</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_33"/>
+<clinic id="clinic_1">
+<doctor id="doctor_76">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_77">
+<url>https://mm2.ru/doctors/kanavets-sergey-pavlovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_14"/>
+<clinic id="clinic_1">
+<doctor id="doctor_77">
+<speciality>нейрохирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_78">
+<url>https://mm2.ru/doctors/karpinskaya-tatyana-vitalevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_28"/>
+<clinic id="clinic_1">
+<doctor id="doctor_78">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_79">
+<url>https://mm2.ru/doctors/karpova-rimma-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3270</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_12"/>
+<clinic id="clinic_1">
+<doctor id="doctor_79">
+<speciality>эндоскопист</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_80">
+<url>https://mm2.ru/doctors/kiryuhina-lyubov-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_10"/>
+<clinic id="clinic_1">
+<doctor id="doctor_80">
+<speciality>нефролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_81">
+<url>https://mm2.ru/doctors/kovalchuk-larisa-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_81">
+<speciality>педиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_82">
+<url>https://mm2.ru/doctors/kokorina-elena-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>8800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_35"/>
+<clinic id="clinic_1">
+<doctor id="doctor_82">
+<speciality>врач функциональной диагностики</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_83">
+<url>https://mm2.ru/doctors/kornienko-elena-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>8970</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_83">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_84">
+<url>https://mm2.ru/doctors/kotskovich-anna-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_84">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_85">
+<url>https://mm2.ru/doctors/krivko-margarita-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_85">
+<speciality>оториноларинголог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_86">
+<url>https://mm2.ru/doctors/kruglov-igor-yurevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_86">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_87">
+<url>https://mm2.ru/doctors/kuzmin-artem-vladimirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_87">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_88">
+<url>https://mm2.ru/doctors/mamaev-pavel-vladimirovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4390</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_26"/>
+<clinic id="clinic_1">
+<doctor id="doctor_88">
+<speciality>психолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_89">
+<url>https://mm2.ru/doctors/martirosyan-naira-fedorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_89">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_90">
+<url>https://mm2.ru/doctors/martsulevich-olga-ivanovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_28"/>
+<clinic id="clinic_1">
+<doctor id="doctor_90">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_91">
+<url>https://mm2.ru/doctors/melnikova-vera-alexeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4630</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_91">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_92">
+<url>https://mm2.ru/doctors/meshkov-vasiliy-vasilevich-1.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_92">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_93">
+<url>https://mm2.ru/doctors/mihalina-ulyana-dmitrievna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_19"/>
+<clinic id="clinic_1">
+<doctor id="doctor_93">
+<speciality>психиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_94">
+<url>https://mm2.ru/doctors/moiseenkova-yuliya-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_94">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_95">
+<url>https://mm2.ru/doctors/moiseykova-ekaterina-leonidovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_95">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_96">
+<url>https://mm2.ru/doctors/molchanov-oleg-sergeevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_96">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_97">
+<url>https://mm2.ru/doctors/moskvina-galina-vladislavovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3070</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_36"/>
+<clinic id="clinic_1">
+<doctor id="doctor_97">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_98">
+<url>https://mm2.ru/doctors/naraykina-svetlana-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_98">
+<speciality>педиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_99">
+<url>https://mm2.ru/doctors/nikonov-roman-alexeevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_99">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_100">
+<url>https://mm2.ru/doctors/nurmahov-chingiz-farhadovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_100">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_101">
+<url>https://mm2.ru/doctors/oleynik-evgeniya-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_20"/>
+<clinic id="clinic_1">
+<doctor id="doctor_101">
+<speciality>офтальмолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_102">
+<url>https://mm2.ru/doctors/pilevina-ekaterina-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_102">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_103">
+<url>https://mm2.ru/doctors/podusenko-viktoriya-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_103">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_104">
+<url>https://mm2.ru/doctors/popova-natalya-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>12000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_20"/>
+<clinic id="clinic_1">
+<doctor id="doctor_104">
+<speciality>офтальмолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_105">
+<url>https://mm2.ru/doctors/prokopenko-svetlana-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3070</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_36"/>
+<clinic id="clinic_1">
+<doctor id="doctor_105">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_106">
+<url>https://mm2.ru/doctors/punanov-yuriy-alexandrovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>8620</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_22"/>
+<clinic id="clinic_1">
+<doctor id="doctor_106">
+<speciality>онколог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_107">
+<url>https://mm2.ru/doctors/puryaeva-vera-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_18"/>
+<clinic id="clinic_1">
+<doctor id="doctor_107">
+<speciality>невролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_108">
+<url>https://mm2.ru/doctors/razgulyaeva-diana-nikolaevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_7"/>
+<clinic id="clinic_1">
+<doctor id="doctor_108">
+<speciality>гастроэнтеролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_109">
+<url>https://mm2.ru/doctors/roschina-natalya-vladimirovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_22"/>
+<clinic id="clinic_1">
+<doctor id="doctor_109">
+<speciality>онколог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_110">
+<url>https://mm2.ru/doctors/rybachk-anastasiya-sergeevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4410</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_9"/>
+<clinic id="clinic_1">
+<doctor id="doctor_110">
+<speciality>кардиолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_111">
+<url>https://mm2.ru/doctors/savichev-roman-olegovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4080</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_33"/>
+<clinic id="clinic_1">
+<doctor id="doctor_111">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_112">
+<url>https://mm2.ru/doctors/salahov-elzamin-salehovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_112">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_113">
+<url>https://mm2.ru/doctors/santimov-andrey-vyacheslavovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>6900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_8"/>
+<clinic id="clinic_1">
+<doctor id="doctor_113">
+<speciality>ревматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_114">
+<url>https://mm2.ru/doctors/sattorov-burhoniddin-zaynidinovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_114">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_115">
+<url>https://mm2.ru/doctors/semenova-yuliya-konstantinovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_22"/>
+<clinic id="clinic_1">
+<doctor id="doctor_115">
+<speciality>онколог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_116">
+<url>https://mm2.ru/doctors/semibratova-tatyana-pavlovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_116">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_117">
+<url>https://mm2.ru/doctors/sigunov-viktor-sergeevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_1"/>
+<clinic id="clinic_1">
+<doctor id="doctor_117">
+<speciality>хирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_118">
+<url>https://mm2.ru/doctors/smirnov-alexandr-alexandrovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>7000</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_12"/>
+<clinic id="clinic_1">
+<doctor id="doctor_118">
+<speciality>эндоскопист</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_119">
+<url>https://mm2.ru/doctors/smirnova-tatyana-mihaylovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_6"/>
+<clinic id="clinic_1">
+<doctor id="doctor_119">
+<speciality>педиатр</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_120">
+<url>https://mm2.ru/doctors/starodubtseva-elena-borisovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_120">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_121">
+<url>https://mm2.ru/doctors/sulika-viktor-konstantinovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_121">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_122">
+<url>https://mm2.ru/doctors/surikov-artem-anatolevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_14"/>
+<clinic id="clinic_1">
+<doctor id="doctor_122">
+<speciality>нейрохирург</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_123">
+<url>https://mm2.ru/doctors/timofeeva-elena-yurevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3070</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_36"/>
+<clinic id="clinic_1">
+<doctor id="doctor_123">
+<speciality>врач УЗИ</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_124">
+<url>https://mm2.ru/doctors/trofimov-alexandr-valeryanovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5900</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_124">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_125">
+<url>https://mm2.ru/doctors/truhin-andrey-evgenevich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_125">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_126">
+<url>https://mm2.ru/doctors/tyapkin-ivan-germanovich.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>5850</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_29"/>
+<clinic id="clinic_1">
+<doctor id="doctor_126">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_127">
+<url>https://mm2.ru/doctors/finne-anna-ivanovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>7470</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_27"/>
+<clinic id="clinic_1">
+<doctor id="doctor_127">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_128">
+<url>https://mm2.ru/doctors/tsys-varvara-alevtinovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4480</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_18"/>
+<clinic id="clinic_1">
+<doctor id="doctor_128">
+<speciality>невролог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_129">
+<url>https://mm2.ru/doctors/chernova-margarita-alexandrovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_5"/>
+<clinic id="clinic_1">
+<doctor id="doctor_129">
+<speciality>аллерголог-иммунолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_130">
+<url>https://mm2.ru/doctors/chipinitskaya-svetlana-nikolaevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4410</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_9"/>
+<clinic id="clinic_1">
+<doctor id="doctor_130">
+<speciality>кардиолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_131">
+<url>https://mm2.ru/doctors/chistovich-mariya-nikitichna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4300</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_20"/>
+<clinic id="clinic_1">
+<doctor id="doctor_131">
+<speciality>офтальмолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_132">
+<url>https://mm2.ru/doctors/shabardina-elena-andreevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_17"/>
+<clinic id="clinic_1">
+<doctor id="doctor_132">
+<speciality>эндокринолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_133">
+<url>https://mm2.ru/doctors/shadova-irina-anatolevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>1330</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_30"/>
+<clinic id="clinic_1">
+<doctor id="doctor_133">
+<speciality>врач функциональной диагностики</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_134">
+<url>https://mm2.ru/doctors/shilkrut-sofiya-evgenevna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4310</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_4"/>
+<clinic id="clinic_1">
+<doctor id="doctor_134">
+<speciality>оториноларинголог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_135">
+<url>https://mm2.ru/doctors/yakor-elena-viktorovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3800</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_32"/>
+<clinic id="clinic_1">
+<doctor id="doctor_135">
+<speciality>рентгенолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_136">
+<url>https://mm2.ru/doctors/yaralieva-elvira-anverovna.html?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>4460</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_15"/>
+<clinic id="clinic_1">
+<doctor id="doctor_136">
+<speciality>травматолог</speciality>
+<adult_appointment>false</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+</offers>
+</shop>
