@@ -2,7 +2,7 @@
 <name>Семейный доктор</name>
 <company>ООО «АнтМед»</company>
 <url>https://familydoctor.spb.ru/</url>
-<picture>https://static.tildacdn.com/tild6339-6465-4064-b566-383231643666/logo.png</picture>
+<picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/13c99766853d20aeaf07458ed087bf0957e14ac0/logo.png</picture>
 <email>info@familydoctor.spb.ru</email>
 <doctors>
 <doctor id="doctor_1">
@@ -96,7 +96,7 @@
 <patronymic>Кямилевна</patronymic>
 <description>Кардиолог-аритмолог и сомнолог с более чем 10-летним стажем работы. Она специализируется на диагностике и лечении гипертонической болезни, ишемической болезни сердца, сердечной недостаточности, нарушений сердечного ритма, а также на инвазивных и неинвазивных методах лечения, включая стентирование, аблацию и радиочастотную катетерную аблацию. Как сомнолог, она занимается лечением нарушений дыхания во время сна, инсомнии, гиперсомнии, синдрома беспокойных ног и других расстройств сна. Проводит современные диагностические исследования.</description>
 <url>https://familydoctor.spb.ru/staff/kardiolog-aritmolog/meshcherova-dinara-kyamilevna/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild3733-3266-4238-b730-633661336332/utclnhnobrbmt3g07btt.JPG</picture>
+<picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/b204c45aa498a9de4d4041b4cd44a71097782e69/%D0%9C%D0%B5%D1%89%D0%B5%D1%80%D0%BE%D0%B2%D0%B0.webp</picture>
 <experience_years>10</experience_years>
 <reviews_total_count>10</reviews_total_count>
 <review>
@@ -383,20 +383,6 @@
 <grade>4.7</grade>
 </review>
 </doctor>
-<doctor id="doctor_28">
-<name>Панкова Светлана Леонидовна</name>
-<first_name>Светлана</first_name>
-<surname>Панкова</surname>
-<patronymic>Леонидовна</patronymic>
-<description>Врач-педиатр, принимает детей с рождения до 18 лет. Проводит наблюдение новорождённых и детей первого года жизни, консультирует по вопросам питания, грудного вскармливания и введения прикормов. Занимается диагностикой и лечением острых и хронических заболеваний, наблюдением часто болеющих детей, оформлением медицинских справок и карт. Окончила Владивостокский государственный медицинский университет, регулярно повышает квалификацию по педиатрии.</description>
-<url>https://familydoctor.spb.ru/staff/pediatriya/svetlana-leonidovna-pankova/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild3266-3739-4536-a539-383461363564/8lmlhbzpb6mslk4c23ir.jpg</picture>
-<experience_years>20</experience_years>
-<reviews_total_count>14</reviews_total_count>
-<review>
-<grade>4.8</grade>
-</review>
-</doctor>
 <doctor id="doctor_29">
 <name>Великоречина Марина Геннадьевна</name>
 <first_name>Марина</first_name>
@@ -516,7 +502,7 @@
 <patronymic>Григорьевна</patronymic>
 <description>Маммолог, онколог и хирург. Специализируется на диагностике, лечении и профилактике заболеваний молочной железы, а также выполняет хирургические манипуляции и удаление доброкачественных образований.</description>
 <url>https://familydoctor.spb.ru/staff/mammologiya/dovgalova-anna-grigorevna/?utm_source=yandexserp</url>
-<picture>https://static.tildacdn.com/tild3939-3965-4963-a332-313839316261/photo.jpg</picture>
+<picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/394c9e3d466c4a4ac34fe3afc92fd8544677b64d/%D0%94%D0%BE%D0%B2%D0%B3%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0.jpg</picture>
 <experience_years>2</experience_years>
 <reviews_total_count>12</reviews_total_count>
 <review>
@@ -1140,23 +1126,6 @@
 <clinic id="clinic_1">
 <doctor id="doctor_27">
 <speciality>Акушер-гинеколог</speciality>
-<adult_appointment>true</adult_appointment>
-<is_base_service>true</is_base_service>
-</doctor>
-</clinic>
-</offer>
-<offer id="offer_28">
-<url>https://familydoctor.spb.ru/staff/pediatriya/svetlana-leonidovna-pankova/?utm_source=yandexserp</url>
-<appointment>true</appointment>
-<online_schedule>false</online_schedule>
-<price>
-<base_price>1700</base_price>
-<currency>RUR</currency>
-</price>
-<service id="service_17"/>
-<clinic id="clinic_1">
-<doctor id="doctor_28">
-<speciality>Педиатр</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
