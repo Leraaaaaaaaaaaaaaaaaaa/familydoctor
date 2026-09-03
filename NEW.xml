@@ -832,7 +832,7 @@
 </doctor>
 </clinic>
 </offer>
-  <offer id="offer_8">
+<offer id="offer_8">
 <url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/samsonova-elena-aleksandrovna/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
@@ -843,8 +843,7 @@
 <service id="service_1"/>
 <clinic id="clinic_1">
 <doctor id="doctor_1">
-<speciality>Акушер-гинеколог
-</speciality>
+<speciality>Акушер-гинеколог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
