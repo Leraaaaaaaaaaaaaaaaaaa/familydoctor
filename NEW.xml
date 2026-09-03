@@ -537,7 +537,7 @@
 <grade>4.8</grade>
 </review>
 </doctor>
-  <doctor id="doctor_39">
+<doctor id="doctor_39">
 <name>Вихнина Софья Модестовна</name>
 <first_name>Софья</first_name>
 <surname>Вихнина</surname>
@@ -546,6 +546,20 @@
 <url>https://familydoctor.spb.ru/staff/otolaringologiya/vikhnina-sofya-modestovna/?utm_source=yandexserp</url>
 <picture>https://github.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/blob/2db9e0e0e0e706e6545bc7a716bf3a80c828a220/%D0%92%D0%B8%D1%85%D0%BD%D0%B8%D0%BD%D0%B0.png</picture>
 <experience_years>14</experience_years>
+<reviews_total_count>12</reviews_total_count>
+<review>
+<grade>4.8</grade>
+</review>
+</doctor>
+<doctor id="doctor_40">
+<name>Гузь</name>
+<first_name>Людмила</first_name>
+<surname>Гузь</surname>
+<patronymic>Федоровна</patronymic>
+<description/>
+<url>https://familydoctor.spb.ru/staff/endokrinologi/guz-lyudmila-fedorovna/?utm_source=yandexserp</url>
+<picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/b4e262983bdf64fc3777fa4124958a0fd9a4020e/%D0%93%D1%83%D0%B7%D1%8C.webp</picture>
+<experience_years>38</experience_years>
 <reviews_total_count>12</reviews_total_count>
 <review>
 <grade>4.8</grade>
@@ -1346,7 +1360,24 @@
 </doctor>
 </clinic>
 </offer>
-  <offer id="offer_41">
+<offer id="offer_40">
+<url>https://familydoctor.spb.ru/staff/endokrinologi/guz-lyudmila-fedorovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_24"/>
+<clinic id="clinic_1">
+<doctor id="doctor_40">
+<speciality>Эндокринолог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_41">
 <url>https://familydoctor.spb.ru/staff/mammologiya/dovgalova-anna-grigorevna/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
