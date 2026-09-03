@@ -1,4 +1,4 @@
-<shop version="2.0" date="2025-01-30 15:58">
+<shop version="2.0" date="2026-09-03 15:58">
 <name>Семейный доктор</name>
 <company>ООО «АнтМед»</company>
 <url>https://familydoctor.spb.ru/</url>
@@ -496,10 +496,10 @@
 </review>
 </doctor>
 <doctor id="doctor_36">
-<name>Семенова</name>
+<name>Семенова Мария Игоревна</name>
 <first_name>Мария</first_name>
-<surname>Игоревна</surname>
-<patronymic>Исмаиловна</patronymic>
+<surname>Семенова</surname>
+<patronymic>Игоревна</patronymic>
 <description/>
 <url>https://familydoctor.spb.ru/staff/oftalmologiya/semenova-mariya-igorevna/?utm_source=yandexserp</url>
 <picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/1e62de055f2410569f7f00eb6da4a18ba9c2b08a/%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0.webp</picture>
@@ -552,7 +552,7 @@
 </review>
 </doctor>
 <doctor id="doctor_40">
-<name>Гузь</name>
+<name>Гузь Людмила Федоровна</name>
 <first_name>Людмила</first_name>
 <surname>Гузь</surname>
 <patronymic>Федоровна</patronymic>
@@ -566,7 +566,7 @@
 </review>
 </doctor>
 <doctor id="doctor_41">
-<name>Ксения Денисовна Лебедева</name>
+<name>Лебедева Ксения Денисовна</name>
 <first_name>Ксения</first_name>
 <surname>Лебедева</surname>
 <patronymic>Денисовна</patronymic>
