@@ -1343,7 +1343,7 @@
 </doctor>
 </clinic>
 </offer>
-  <offer id="offer_38">
+<offer id="offer_38">
 <url>https://familydoctor.spb.ru/staff/otolaringologiya/vikhnina-sofya-modestovna/?utm_source=yandexserp</url>
 <appointment>true</appointment>
 <online_schedule>false</online_schedule>
@@ -1354,6 +1354,23 @@
 <service id="service_16"/>
 <clinic id="clinic_1">
 <doctor id="doctor_29">
+<speciality>Отоларинголог</speciality>
+<adult_appointment>true</adult_appointment>
+<is_base_service>true</is_base_service>
+</doctor>
+</clinic>
+</offer>
+<offer id="offer_39">
+<url>https://familydoctor.spb.ru/staff/otolaringologiya/vikhnina-sofya-modestovna/?utm_source=yandexserp</url>
+<appointment>true</appointment>
+<online_schedule>false</online_schedule>
+<price>
+<base_price>3500</base_price>
+<currency>RUR</currency>
+</price>
+<service id="service_24"/>
+<clinic id="clinic_1">
+<doctor id="doctor_39">
 <speciality>Отоларинголог</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
