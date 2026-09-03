@@ -721,7 +721,7 @@
 <base_price>4000</base_price>
 <currency>RUR</currency>
 </price>
-<service id="service_4"/>
+<service id="service_9"/>
 <clinic id="clinic_1">
 <doctor id="doctor_8">
 <speciality>Диетолог</speciality>
