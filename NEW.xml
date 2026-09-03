@@ -383,6 +383,20 @@
 <grade>4.7</grade>
 </review>
 </doctor>
+<doctor id="doctor_28">
+<name>Михайловская Елена Николаевна</name>
+<first_name>Елена</first_name>
+<surname>Михайловская</surname>
+<patronymic>Николаевна</patronymic>
+<description/>
+<url>https://familydoctor.spb.ru/staff/akusherstvo-i-ginekologiya/drozhenko-alyona-konstantinovna/?utm_source=yandexserp</url>
+<picture>https://rawcdn.githack.com/Leraaaaaaaaaaaaaaaaaaa/familydoctor/2db9e0e0e0e706e6545bc7a716bf3a80c828a220/%D0%94%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D0%BA%D0%BE.webp</picture>
+<experience_years>10</experience_years>
+<reviews_total_count>19</reviews_total_count>
+<review>
+<grade>4.7</grade>
+</review>
+</doctor>
 <doctor id="doctor_29">
 <name>Великоречина Марина Геннадьевна</name>
 <first_name>Марина</first_name>
