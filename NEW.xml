@@ -1333,10 +1333,10 @@
 <base_price>1200</base_price>
 <currency>RUR</currency>
 </price>
-<service id="service_9"/>
+<service id="service_6"/>
 <clinic id="clinic_1">
 <doctor id="doctor_37">
-<speciality>Диаетолог</speciality>
+<speciality>Терапевт</speciality>
 <adult_appointment>true</adult_appointment>
 <is_base_service>true</is_base_service>
 </doctor>
